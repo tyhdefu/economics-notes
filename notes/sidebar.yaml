@@ -1,0 +1,16 @@
+items:
+-   label: Brief
+    file: README.md
+-   label: Elasticities
+    file: elasticities/summary.md
+    items:
+      - label: PED
+        file: elasticities/ped.md
+      - label: YED
+        file: elasticities/yed.md
+      - label: XED
+        file: elasticities/xed.md
+      - label: PES
+        file: elasticities/pes.md
+-   label: Inflation
+    file: inflation.md

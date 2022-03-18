@@ -97,15 +97,3 @@ This can lead to shedding labour causing higher unemployment. Higher unemploymen
 
 ### Can make exports more competitive ###
 Deflation can make exports more competitive eventually, but it often comes at a cost in the short term.
-
-#### A Header ####
-test
-
-#### Another Header ####
-test 2
-
-##### Another Header 2 #####
-test 3
-
-##### Another Header 3 #####
-test 4

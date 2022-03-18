@@ -13,3 +13,6 @@
     }
 }
 
+.dark img[src$="#mono-black"] {
+   filter: invert(100%)
+}

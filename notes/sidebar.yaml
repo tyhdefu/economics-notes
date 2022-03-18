@@ -27,3 +27,5 @@ items:
         file: policy/monetary-policy.md
       - label: Fiscal Policy
         file: policy/fiscal-policy.md
+  - label: Balance of Payments
+    file: balance_of_payments.md

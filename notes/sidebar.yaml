@@ -17,6 +17,15 @@ items:
         file: elasticities/pes.md
   - label: Market failure
     file: externalities/market_failure.md
+    items:
+      - label: "Negative Production Externality"
+        file: "externalities/negative_production.md"
+      - label: "Negative Consumption Externality"
+        file: "externalities/negative_consumption.md"
+      - label: "Positive Production Externality"
+        file: "externalities/positive_production.md"
+      - label: "Positive Consumption Externality"
+        file: "externalities/positive_consumption.md"
 
   - label: Macro-Economics
   - label: Macro Objectives

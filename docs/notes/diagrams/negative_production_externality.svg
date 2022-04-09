@@ -8,9 +8,9 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="61.413078mm"
-   height="44.259087mm"
-   viewBox="0 0 61.413078 44.259087"
+   width="61.148499mm"
+   height="45.213696mm"
+   viewBox="0 0 61.148498 45.213696"
    version="1.1"
    id="svg8"
    inkscape:version="1.0.2-2 (e86c870879, 2021-01-15)"
@@ -113,9 +113,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="16"
-     inkscape:cx="102.4369"
-     inkscape:cy="46.767541"
+     inkscape:zoom="4"
+     inkscape:cx="82.779093"
+     inkscape:cy="85.030633"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      inkscape:document-rotation="0"
@@ -276,68 +276,68 @@
     <text
        xml:space="preserve"
        style="font-size:2.82222px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
-       x="67.913185"
-       y="54.068626"
+       x="67.648605"
+       y="55.391544"
        id="text3781"><tspan
          sodipodi:role="line"
          id="tspan3779"
-         x="67.913185"
-         y="54.068626"
+         x="67.648605"
+         y="55.391544"
          style="font-size:2.82222px;stroke-width:0.264583">Quantity</tspan><tspan
          sodipodi:role="line"
-         x="67.913185"
-         y="57.596401"
+         x="67.648605"
+         y="58.919319"
          style="font-size:2.82222px;stroke-width:0.264583"
          id="tspan3783" /></text>
     <text
        xml:space="preserve"
        style="font-size:2.82222px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
-       x="45.156788"
-       y="54.440929"
+       x="44.689068"
+       y="54.019981"
        id="text3655-0-6"><tspan
          sodipodi:role="line"
          id="tspan3653-3-4"
-         x="45.156788"
-         y="54.440929"
+         x="44.689068"
+         y="54.019981"
          style="font-size:2.82222px;stroke-width:0.264583">Q<tspan
    style="font-size:2.11667px;baseline-shift:sub"
    id="tspan3841">2</tspan></tspan></text>
     <text
        xml:space="preserve"
        style="font-size:2.82222px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
-       x="49.487064"
-       y="54.459534"
+       x="49.206432"
+       y="54.038586"
        id="text3655-0-6-6"><tspan
          sodipodi:role="line"
          id="tspan3653-3-4-9"
-         x="49.487064"
-         y="54.459534"
+         x="49.206432"
+         y="54.038586"
          style="font-size:2.82222px;stroke-width:0.264583">Q<tspan
    style="font-size:2.11667px;baseline-shift:sub"
    id="tspan3871">1</tspan></tspan></text>
     <text
        xml:space="preserve"
        style="font-size:2.82222px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
-       x="22.898232"
-       y="28.173574"
+       x="22.567503"
+       y="28.305866"
        id="text3655-0-6-6-1"><tspan
          sodipodi:role="line"
          id="tspan3653-3-4-9-8"
-         x="22.898232"
-         y="28.173574"
+         x="22.567503"
+         y="28.305866"
          style="font-size:2.82222px;stroke-width:0.264583">P<tspan
    style="font-size:2.11667px;baseline-shift:sub"
    id="tspan3909">1</tspan></tspan></text>
     <text
        xml:space="preserve"
        style="font-size:2.82222px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
-       x="22.927696"
-       y="23.868958"
+       x="22.596968"
+       y="24.001249"
        id="text3655-0-6-6-1-1"><tspan
          sodipodi:role="line"
          id="tspan3653-3-4-9-8-6"
-         x="22.927696"
-         y="23.868958"
+         x="22.596968"
+         y="24.001249"
          style="font-size:2.82222px;stroke-width:0.264583">P<tspan
    style="font-size:2.11667px;baseline-shift:sub"
    id="tspan3941">2</tspan></tspan></text>
@@ -354,7 +354,7 @@
          style="font-size:2.82222px;stroke-width:0.264583">MSC</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:2.82222222px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583;"
+       style="font-size:2.82222px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
        x="61.384823"
        y="19.745148"
        id="text3949"><tspan
@@ -362,10 +362,10 @@
          id="tspan3947"
          x="61.384823"
          y="19.745148"
-         style="stroke-width:0.264583;font-size:2.82222222px;">MPC</tspan></text>
+         style="font-size:2.82222px;stroke-width:0.264583">MPC</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:2.82222222px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583;"
+       style="font-size:2.82222px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
        x="64.401627"
        y="42.803829"
        id="text3953"><tspan
@@ -373,6 +373,6 @@
          id="tspan3951"
          x="64.401627"
          y="42.803829"
-         style="stroke-width:0.264583;font-size:2.82222222px;">MSB</tspan></text>
+         style="font-size:2.82222px;stroke-width:0.264583">MSB</tspan></text>
   </g>
 </svg>

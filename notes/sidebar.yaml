@@ -4,6 +4,10 @@ items:
   - label: Micro-Economics
   - label: PPF - Production Possibility Frontier
     file: ppf/ppf.md
+  - label: Demand
+    file: demand.md
+  - label: Supply
+    file: supply.md
   - label: Elasticities
     file: elasticities/summary.md
     items:

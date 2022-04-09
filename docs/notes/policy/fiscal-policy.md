@@ -42,8 +42,8 @@ Spending in order to keep day-to-day things running:
 Spending on new public infrastructure.
 - Construction of new motorways
 - New equipment in the NHS
-- Flood defense schemes
-- Extra defense equipment
+- Flood defence schemes
+- Extra defence equipment
 
 # Earning #
 

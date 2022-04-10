@@ -32,6 +32,10 @@ items:
         file: "externalities/positive_production.md"
       - label: "Positive Consumption Externality"
         file: "externalities/positive_consumption.md"
+  - label: Government intervention
+    items:
+      - label: "Indirect Tax"
+        file: "government_intervention/indirect_tax.md"
 
   - label: Macro-Economics
   - label: Macro Objectives

@@ -36,6 +36,10 @@ items:
     items:
       - label: "Indirect Tax"
         file: "government_intervention/indirect_tax.md"
+      - label: "Minimum Price"
+        file: "government_intervention/minimum_price.md"
+      - label: "Maximum Price"
+        file: "government_intervention/maximum_price.md"
 
   - label: Macro-Economics
   - label: Macro Objectives

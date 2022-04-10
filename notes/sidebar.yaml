@@ -8,6 +8,8 @@ items:
     file: demand.md
   - label: Supply
     file: supply.md
+  - label: "Price Mechanism"
+    file: "price_mechanism.md"
   - label: Elasticities
     file: elasticities/summary.md
     items:

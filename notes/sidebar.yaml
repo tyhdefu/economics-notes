@@ -8,6 +8,8 @@ items:
     file: demand.md
   - label: Supply
     file: supply.md
+  - label: 4 Factors of production
+    file: factors_of_production.md
   - label: "Price Mechanism"
     file: "price_mechanism.md"
   - label: Elasticities
@@ -21,6 +23,10 @@ items:
         file: elasticities/xed.md
       - label: PES
         file: elasticities/pes.md
+  - label: Public goods
+    file: public_goods.md
+  - label: Short Run vs Long Run
+    file: sr_v_lr.md
   - label: Market failure
     file: externalities/market_failure.md
     items:

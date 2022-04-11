@@ -2,139 +2,157 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
     <url>
             <loc>https://tyhdefu.github.io/economics-notes/notes/inflation.html</loc>
-            <lastmod>2022-04-10T17:24:55.207603</lastmod>
+            <lastmod>2022-04-11T11:12:15.270392</lastmod>
             <changefreq>weekly</changefreq>
             <priority>1.0</priority>
         </url>
         <url>
             <loc>https://tyhdefu.github.io/economics-notes/notes/balance_of_payments.html</loc>
-            <lastmod>2022-04-10T17:24:55.203603</lastmod>
+            <lastmod>2022-04-11T11:12:15.270392</lastmod>
             <changefreq>weekly</changefreq>
             <priority>1.0</priority>
         </url>
         <url>
             <loc>https://tyhdefu.github.io/economics-notes/notes/index.html</loc>
-            <lastmod>2022-04-10T17:24:55.203603</lastmod>
+            <lastmod>2022-04-11T11:12:15.266392</lastmod>
+            <changefreq>weekly</changefreq>
+            <priority>1.0</priority>
+        </url>
+        <url>
+            <loc>https://tyhdefu.github.io/economics-notes/notes/factors_of_production.html</loc>
+            <lastmod>2022-04-11T11:12:15.270392</lastmod>
             <changefreq>weekly</changefreq>
             <priority>1.0</priority>
         </url>
         <url>
             <loc>https://tyhdefu.github.io/economics-notes/notes/ppf/ppf.html</loc>
-            <lastmod>2022-04-10T17:24:55.207603</lastmod>
+            <lastmod>2022-04-11T11:12:15.270392</lastmod>
             <changefreq>weekly</changefreq>
             <priority>1.0</priority>
         </url>
         <url>
             <loc>https://tyhdefu.github.io/economics-notes/notes/demand.html</loc>
-            <lastmod>2022-04-10T17:24:55.207603</lastmod>
+            <lastmod>2022-04-11T11:12:15.270392</lastmod>
             <changefreq>weekly</changefreq>
             <priority>1.0</priority>
         </url>
         <url>
             <loc>https://tyhdefu.github.io/economics-notes/notes/price_mechanism.html</loc>
-            <lastmod>2022-04-10T17:24:55.207603</lastmod>
+            <lastmod>2022-04-11T11:12:15.270392</lastmod>
             <changefreq>weekly</changefreq>
             <priority>1.0</priority>
         </url>
         <url>
             <loc>https://tyhdefu.github.io/economics-notes/notes/government_intervention/maximum_price.html</loc>
-            <lastmod>2022-04-10T17:24:55.207603</lastmod>
+            <lastmod>2022-04-11T11:12:15.270392</lastmod>
             <changefreq>weekly</changefreq>
             <priority>1.0</priority>
         </url>
         <url>
             <loc>https://tyhdefu.github.io/economics-notes/notes/government_intervention/minimum_price.html</loc>
-            <lastmod>2022-04-10T17:24:55.207603</lastmod>
+            <lastmod>2022-04-11T11:12:15.270392</lastmod>
             <changefreq>weekly</changefreq>
             <priority>1.0</priority>
         </url>
         <url>
             <loc>https://tyhdefu.github.io/economics-notes/notes/government_intervention/indirect_tax.html</loc>
-            <lastmod>2022-04-10T17:24:55.207603</lastmod>
+            <lastmod>2022-04-11T11:12:15.270392</lastmod>
+            <changefreq>weekly</changefreq>
+            <priority>1.0</priority>
+        </url>
+        <url>
+            <loc>https://tyhdefu.github.io/economics-notes/notes/public_goods.html</loc>
+            <lastmod>2022-04-11T11:12:15.270392</lastmod>
             <changefreq>weekly</changefreq>
             <priority>1.0</priority>
         </url>
         <url>
             <loc>https://tyhdefu.github.io/economics-notes/notes/supply.html</loc>
-            <lastmod>2022-04-10T17:24:55.207603</lastmod>
+            <lastmod>2022-04-11T11:12:15.270392</lastmod>
             <changefreq>weekly</changefreq>
             <priority>1.0</priority>
         </url>
         <url>
             <loc>https://tyhdefu.github.io/economics-notes/notes/macro-objectives.html</loc>
-            <lastmod>2022-04-10T17:24:55.207603</lastmod>
+            <lastmod>2022-04-11T11:12:15.270392</lastmod>
             <changefreq>weekly</changefreq>
             <priority>1.0</priority>
         </url>
         <url>
             <loc>https://tyhdefu.github.io/economics-notes/notes/policy/fiscal-policy.html</loc>
-            <lastmod>2022-04-10T17:24:55.207603</lastmod>
+            <lastmod>2022-04-11T11:12:15.270392</lastmod>
             <changefreq>weekly</changefreq>
             <priority>1.0</priority>
         </url>
         <url>
             <loc>https://tyhdefu.github.io/economics-notes/notes/policy/monetary-policy.html</loc>
-            <lastmod>2022-04-10T17:24:55.207603</lastmod>
+            <lastmod>2022-04-11T11:12:15.270392</lastmod>
             <changefreq>weekly</changefreq>
             <priority>1.0</priority>
         </url>
         <url>
             <loc>https://tyhdefu.github.io/economics-notes/notes/externalities/negative_production.html</loc>
-            <lastmod>2022-04-10T17:24:55.207603</lastmod>
+            <lastmod>2022-04-11T11:12:15.270392</lastmod>
             <changefreq>weekly</changefreq>
             <priority>1.0</priority>
         </url>
         <url>
             <loc>https://tyhdefu.github.io/economics-notes/notes/externalities/market_failure.html</loc>
-            <lastmod>2022-04-10T17:24:55.207603</lastmod>
+            <lastmod>2022-04-11T11:12:15.270392</lastmod>
             <changefreq>weekly</changefreq>
             <priority>1.0</priority>
         </url>
         <url>
             <loc>https://tyhdefu.github.io/economics-notes/notes/externalities/negative_consumption.html</loc>
-            <lastmod>2022-04-10T17:24:55.207603</lastmod>
+            <lastmod>2022-04-11T11:12:15.270392</lastmod>
             <changefreq>weekly</changefreq>
             <priority>1.0</priority>
         </url>
         <url>
             <loc>https://tyhdefu.github.io/economics-notes/notes/externalities/positive_production.html</loc>
-            <lastmod>2022-04-10T17:24:55.207603</lastmod>
+            <lastmod>2022-04-11T11:12:15.270392</lastmod>
             <changefreq>weekly</changefreq>
             <priority>1.0</priority>
         </url>
         <url>
             <loc>https://tyhdefu.github.io/economics-notes/notes/externalities/positive_consumption.html</loc>
-            <lastmod>2022-04-10T17:24:55.207603</lastmod>
+            <lastmod>2022-04-11T11:12:15.270392</lastmod>
+            <changefreq>weekly</changefreq>
+            <priority>1.0</priority>
+        </url>
+        <url>
+            <loc>https://tyhdefu.github.io/economics-notes/notes/sr_v_lr.html</loc>
+            <lastmod>2022-04-11T11:12:15.270392</lastmod>
             <changefreq>weekly</changefreq>
             <priority>1.0</priority>
         </url>
         <url>
             <loc>https://tyhdefu.github.io/economics-notes/notes/elasticities/xed.html</loc>
-            <lastmod>2022-04-10T17:24:55.207603</lastmod>
+            <lastmod>2022-04-11T11:12:15.270392</lastmod>
             <changefreq>weekly</changefreq>
             <priority>1.0</priority>
         </url>
         <url>
             <loc>https://tyhdefu.github.io/economics-notes/notes/elasticities/yed.html</loc>
-            <lastmod>2022-04-10T17:24:55.207603</lastmod>
+            <lastmod>2022-04-11T11:12:15.270392</lastmod>
             <changefreq>weekly</changefreq>
             <priority>1.0</priority>
         </url>
         <url>
             <loc>https://tyhdefu.github.io/economics-notes/notes/elasticities/ped.html</loc>
-            <lastmod>2022-04-10T17:24:55.207603</lastmod>
+            <lastmod>2022-04-11T11:12:15.270392</lastmod>
             <changefreq>weekly</changefreq>
             <priority>1.0</priority>
         </url>
         <url>
             <loc>https://tyhdefu.github.io/economics-notes/notes/elasticities/summary.html</loc>
-            <lastmod>2022-04-10T17:24:55.207603</lastmod>
+            <lastmod>2022-04-11T11:12:15.270392</lastmod>
             <changefreq>weekly</changefreq>
             <priority>1.0</priority>
         </url>
         <url>
             <loc>https://tyhdefu.github.io/economics-notes/notes/elasticities/pes.html</loc>
-            <lastmod>2022-04-10T17:24:55.207603</lastmod>
+            <lastmod>2022-04-11T11:12:15.270392</lastmod>
             <changefreq>weekly</changefreq>
             <priority>1.0</priority>
         </url>

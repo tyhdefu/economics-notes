@@ -12,6 +12,10 @@ items:
     file: factors_of_production.md
   - label: "Price Mechanism"
     file: "price_mechanism.md"
+  - label: Specialisation
+    file: specialisation.md
+  - label: Division of Labour
+    file: division_of_labour.md
   - label: Elasticities
     file: elasticities/summary.md
     items:

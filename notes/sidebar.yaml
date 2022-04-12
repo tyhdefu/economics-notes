@@ -52,6 +52,8 @@ items:
         file: "government_intervention/maximum_price.md"
       - label: Subsidy
         file: government_intervention/subsidy.md
+      - label: Regulation
+        file: government_intervention/regulation.md
   - label: Macro-Economics
   - label: Macro Objectives
     file: macro-objectives.md

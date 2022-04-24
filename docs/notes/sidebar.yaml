@@ -61,6 +61,8 @@ items:
     file: unemployment.md
   - label: Inflation
     file: inflation.md
+  - label: Keynesian LRAS
+    file: keynesian_lras.md
   - label: Policies
     items:
       - label: Monetary Policy

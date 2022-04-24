@@ -31,6 +31,8 @@ items:
     file: public_goods.md
   - label: Short Run vs Long Run
     file: sr_v_lr.md
+  - label: Economies of Scale
+    file: economies_of_scale.md
   - label: Market failure
     file: externalities/market_failure.md
     items:

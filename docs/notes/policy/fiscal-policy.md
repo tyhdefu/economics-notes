@@ -36,7 +36,7 @@ Spending in order to keep day-to-day things running:
 - Paying NHS Workers
 - Drugs used in healthcare
 - Road maintenance
-- Army logisitics supplies
+- Army logistics supplies
 
 ## Capital Spending - LR Spending ##
 Spending on new public infrastructure.

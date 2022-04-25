@@ -37,7 +37,7 @@ It is straight forward to compile
 However, it may be inaccurate because
 - People have too much pride to claim / enough wealth already
 - It doesn't recognise people who have been raising children and are looking to return to the workforce as unemployed
-- Excludes people who aren't eligible to claim JSA (e.g people with no permanant address)
+- Excludes people who aren't eligible to claim JSA (e.g people with no permanent address)
 - Doesn't include people who are unemployed but choose not to claim.
 
 ## ILO - Labour Force Survey ##

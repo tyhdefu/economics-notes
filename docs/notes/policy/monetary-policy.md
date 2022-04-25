@@ -32,7 +32,7 @@ Negatives:
 - Tightening of credit supply (loans harder to get)
 - Appreciation of the exchange rate
 
-Constractionary monetary policy shifts AD to the left.
+Contractionary monetary policy shifts AD to the left.
 
 ![Left shift of AD](../diagrams/ad-shift-left.svg#mono-black)
 

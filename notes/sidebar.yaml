@@ -75,3 +75,7 @@ items:
         file: policy/supply-side.md
   - label: Balance of Payments
     file: balance_of_payments.md
+
+  - label: Exam Help
+  - label: Fiscal Policy Essay Plan
+    file: exams/effectiveness_of_fiscal_policy.md

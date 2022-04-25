@@ -8,6 +8,8 @@ in order to achieve <a href="../macro-objectives.html">macro-economic objectives
 
 Changes in fiscal policy affects both aggregate demand and aggregate supply.
 
+Fiscal Policy also includes <a href="supply-side.html">supply side policies</a>
+
 ## Public Sector Businesses ##
 Public Sector Businesses are owned and operated by the government. The private sector is privately owned.  
 Examples:

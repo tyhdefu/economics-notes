@@ -11,7 +11,7 @@ PED is almost always negative, since for most goods, price and demand are invers
 
 Sometimes we drop the minus sign, since its usually obvious anyway.
 
-# Factors that effect PED #
+# Factors that affect PED #
 - Necessity or Luxury
 - Percentage of Income
 - Width of market - How many substitutes

@@ -14,8 +14,6 @@
 MathJax = {"loader": {"load": ["output/svg"]}, "tex": {"inlineMath": [["$", "$"], ["\\(", "\\)"]]}, "svg": {"fontCache": "global"}};
 </script>
     
-    <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
-    
     <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
     
     <link rel="stylesheet" href="/economics-notes/static/css/theme_default/prism.min.css" type="text/css"/>
@@ -161,6 +159,10 @@ MathJax = {"loader": {"load": ["output/svg"]}, "tex": {"inlineMath": [["$", "$"]
                         </div>
                         </div>
                     </div>
+                    <div id="article_tools">
+                        <span></span>
+                        <span id="toc_btn"></span>
+                    </div>
                     <div id="article_content">
                         <p>Inflation is a sustained rise in the average price of goods and services over a given time period.</p>
 <p>Inflation means thee is a fall in the purchasing power of money. To beat inflation you need to invest and get higher returns than the inflation rate, or spend your money.</p>
@@ -278,9 +280,11 @@ This can lead to shedding labour causing higher unemployment. Higher unemploymen
                 </div>
                 <div id="comments-container"></div>
             </div>
-            <div id="toc">
-                <div id="toc_content">
-                        
+            <div id="toc_wrapper">
+                <div id="toc">
+                    <div id="toc_content">
+                            
+                    </div>
                 </div>
             </div>
         </div>
@@ -304,6 +308,10 @@ This can lead to shedding labour causing higher unemployment. Higher unemploymen
             </div>
         </div>
     </div>
+    
+        <script src="/economics-notes/teedoc-plugin-markdown-parser/mermaid.min.js"></script>
+    
+        <script>mermaid.initialize({startOnLoad:true});</script>
     
         <script src="/economics-notes/static/js/theme_default/tocbot.min.js"></script>
     

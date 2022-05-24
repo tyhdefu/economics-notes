@@ -14,8 +14,6 @@
 MathJax = {"loader": {"load": ["output/svg"]}, "tex": {"inlineMath": [["$", "$"], ["\\(", "\\)"]]}, "svg": {"fontCache": "global"}};
 </script>
     
-    <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
-    
     <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
     
     <link rel="stylesheet" href="/economics-notes/static/css/theme_default/prism.min.css" type="text/css"/>
@@ -161,13 +159,17 @@ MathJax = {"loader": {"load": ["output/svg"]}, "tex": {"inlineMath": [["$", "$"]
                         </div>
                         </div>
                     </div>
+                    <div id="article_tools">
+                        <span></span>
+                        <span id="toc_btn"></span>
+                    </div>
                     <div id="article_content">
                         <p>Income elasticity of demand measures how responsive <strong>Demand</strong> is when <strong>income</strong> is varied.</p>
 <p>$\text{YED}  =\frac{\%\Delta QD}{\%\Delta Y}$</p>
 <p>Y stands for income.</p>
-<pre><code>&lt;---- -2 ---- -1 ----- 0 ----- 1 ----- 2 ------&gt;
-       Inferior        |     Normal    | Luxury
-</code></pre>
+
+<pre class="language-none"><code class="language-none">&lt;---- -2 ---- -1 ----- 0 ----- 1 ----- 2 ------&gt;
+       Inferior        |     Normal    | Luxury</code></pre>
 <h1 id="Inferior-Goods">Inferior Goods</h1>
 <p>Inferior goods have a YED of less than 0. This means that when people's<br>
 incomes increase, they buy less of the good.</p>
@@ -218,9 +220,11 @@ not be 20% of what they are spending.</p>
                 </div>
                 <div id="comments-container"></div>
             </div>
-            <div id="toc">
-                <div id="toc_content">
-                        
+            <div id="toc_wrapper">
+                <div id="toc">
+                    <div id="toc_content">
+                            
+                    </div>
                 </div>
             </div>
         </div>
@@ -244,6 +248,10 @@ not be 20% of what they are spending.</p>
             </div>
         </div>
     </div>
+    
+        <script src="/economics-notes/teedoc-plugin-markdown-parser/mermaid.min.js"></script>
+    
+        <script>mermaid.initialize({startOnLoad:true});</script>
     
         <script src="/economics-notes/static/js/theme_default/tocbot.min.js"></script>
     

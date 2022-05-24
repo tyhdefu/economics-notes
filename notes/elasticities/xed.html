@@ -14,8 +14,6 @@
 MathJax = {"loader": {"load": ["output/svg"]}, "tex": {"inlineMath": [["$", "$"], ["\\(", "\\)"]]}, "svg": {"fontCache": "global"}};
 </script>
     
-    <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
-    
     <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
     
     <link rel="stylesheet" href="/economics-notes/static/css/theme_default/prism.min.css" type="text/css"/>
@@ -161,13 +159,17 @@ MathJax = {"loader": {"load": ["output/svg"]}, "tex": {"inlineMath": [["$", "$"]
                         </div>
                         </div>
                     </div>
+                    <div id="article_tools">
+                        <span></span>
+                        <span id="toc_btn"></span>
+                    </div>
                     <div id="article_content">
                         <p>Cross elasticity of demand compares how the <strong>demand</strong> of one product varies with<br>
 the <strong>price</strong> of <strong>another product</strong>.</p>
 <p>$\text{XED}  =\frac{\%\Delta \text{QD of Product A}}{\%\Delta \text{P of Product B}}$</p>
-<pre><code>&lt;---- -2 ---- -1 ----- 0 ----- 1 ----- 2 ------&gt;
-      Complimentary    |       Substitutes
-</code></pre>
+
+<pre class="language-none"><code class="language-none">&lt;---- -2 ---- -1 ----- 0 ----- 1 ----- 2 ------&gt;
+      Complimentary    |       Substitutes</code></pre>
 <h1 id="Complimentary-Goods">Complimentary Goods</h1>
 <p>When XED is negative, the two goods are complimentary.</p>
 <p>Strong Compliments - Bike + Bike Pump (e.g -2)<br>
@@ -199,9 +201,11 @@ Weak Rivals - Apples and oranges (e.g -0.4)</p>
                 </div>
                 <div id="comments-container"></div>
             </div>
-            <div id="toc">
-                <div id="toc_content">
-                        
+            <div id="toc_wrapper">
+                <div id="toc">
+                    <div id="toc_content">
+                            
+                    </div>
                 </div>
             </div>
         </div>
@@ -225,6 +229,10 @@ Weak Rivals - Apples and oranges (e.g -0.4)</p>
             </div>
         </div>
     </div>
+    
+        <script src="/economics-notes/teedoc-plugin-markdown-parser/mermaid.min.js"></script>
+    
+        <script>mermaid.initialize({startOnLoad:true});</script>
     
         <script src="/economics-notes/static/js/theme_default/tocbot.min.js"></script>
     

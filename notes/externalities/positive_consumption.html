@@ -14,8 +14,6 @@
 MathJax = {"loader": {"load": ["output/svg"]}, "tex": {"inlineMath": [["$", "$"], ["\\(", "\\)"]]}, "svg": {"fontCache": "global"}};
 </script>
     
-    <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
-    
     <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
     
     <link rel="stylesheet" href="/economics-notes/static/css/theme_default/prism.min.css" type="text/css"/>
@@ -161,6 +159,10 @@ MathJax = {"loader": {"load": ["output/svg"]}, "tex": {"inlineMath": [["$", "$"]
                         </div>
                         </div>
                     </div>
+                    <div id="article_tools">
+                        <span></span>
+                        <span id="toc_btn"></span>
+                    </div>
                     <div id="article_content">
                         <h1 id="Education-Example">Education Example</h1>
 <p><img src="../diagrams/positive_consumption_externality.svg#mono-black" alt="Positive Consumption Externality Diagram" style="width:70%;"/></p>
@@ -192,9 +194,11 @@ Education has a positive effect when consumed, since all firms that later hire t
                 </div>
                 <div id="comments-container"></div>
             </div>
-            <div id="toc">
-                <div id="toc_content">
-                        
+            <div id="toc_wrapper">
+                <div id="toc">
+                    <div id="toc_content">
+                            
+                    </div>
                 </div>
             </div>
         </div>
@@ -218,6 +222,10 @@ Education has a positive effect when consumed, since all firms that later hire t
             </div>
         </div>
     </div>
+    
+        <script src="/economics-notes/teedoc-plugin-markdown-parser/mermaid.min.js"></script>
+    
+        <script>mermaid.initialize({startOnLoad:true});</script>
     
         <script src="/economics-notes/static/js/theme_default/tocbot.min.js"></script>
     

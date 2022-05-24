@@ -14,8 +14,6 @@
 MathJax = {"loader": {"load": ["output/svg"]}, "tex": {"inlineMath": [["$", "$"], ["\\(", "\\)"]]}, "svg": {"fontCache": "global"}};
 </script>
     
-    <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
-    
     <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
     
     <link rel="stylesheet" href="/economics-notes/static/css/theme_default/prism.min.css" type="text/css"/>
@@ -161,12 +159,16 @@ MathJax = {"loader": {"load": ["output/svg"]}, "tex": {"inlineMath": [["$", "$"]
                         </div>
                         </div>
                     </div>
+                    <div id="article_tools">
+                        <span></span>
+                        <span id="toc_btn"></span>
+                    </div>
                     <div id="article_content">
                         <p>Price elasticity of Demand measures how responsive <strong>Demand</strong> when <strong>price</strong> is varied.</p>
 <p>$\text{PED}  =\frac{\%\Delta QD}{\%\Delta P}$</p>
 <p>PED is almost always negative, since for most goods, price and demand are inversely proportional. (If something costs more, then you buy less.).</p>
 <p>Sometimes we drop the minus sign, since its usually obvious anyway.</p>
-<h1 id="Factors-that-effect-PED">Factors that effect PED</h1>
+<h1 id="Factors-that-affect-PED">Factors that affect PED</h1>
 <ul>
 <li>Necessity or Luxury</li>
 <li>Percentage of Income</li>
@@ -209,9 +211,11 @@ MathJax = {"loader": {"load": ["output/svg"]}, "tex": {"inlineMath": [["$", "$"]
                 </div>
                 <div id="comments-container"></div>
             </div>
-            <div id="toc">
-                <div id="toc_content">
-                        
+            <div id="toc_wrapper">
+                <div id="toc">
+                    <div id="toc_content">
+                            
+                    </div>
                 </div>
             </div>
         </div>
@@ -235,6 +239,10 @@ MathJax = {"loader": {"load": ["output/svg"]}, "tex": {"inlineMath": [["$", "$"]
             </div>
         </div>
     </div>
+    
+        <script src="/economics-notes/teedoc-plugin-markdown-parser/mermaid.min.js"></script>
+    
+        <script>mermaid.initialize({startOnLoad:true});</script>
     
         <script src="/economics-notes/static/js/theme_default/tocbot.min.js"></script>
     

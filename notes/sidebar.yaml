@@ -63,6 +63,8 @@ items:
     file: unemployment.md
   - label: Inflation
     file: inflation.md
+  - label: Economic Growth
+    file: economic_growth.md
   - label: Keynesian LRAS
     file: keynesian_lras.md
   - label: Policies

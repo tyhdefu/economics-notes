@@ -79,5 +79,7 @@ items:
     file: balance_of_payments.md
 
   - label: Exam Help
+  - label: Answer format
+    file: exams/format.md
   - label: Fiscal Policy Essay Plan
     file: exams/effectiveness_of_fiscal_policy.md

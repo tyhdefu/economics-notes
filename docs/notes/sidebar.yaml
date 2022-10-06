@@ -5,14 +5,18 @@ items:
   - label: Micro-Economics
   - label: PPF - Production Possibility Frontier
     file: ppf/ppf.md
-  - label: Demand
-    file: demand.md
-  - label: Supply
-    file: supply.md
-  - label: 4 Factors of production
-    file: factors_of_production.md
-  - label: "Price Mechanism"
-    file: "price_mechanism.md"
+  - label: Basic Concepts
+    items:
+      - label: "Demand"
+        file: basic_concepts/demand.md
+      - label: "Supply"
+        file: basic_concepts/supply.md
+      - label: "4 Factors of production"
+        file: basic_concepts/factors_of_production.md
+      - label: "Price Mechanism"
+        file: basic_concepts/price_mechanism.md
+      - label: "Short Run vs Long Run"
+        file: basic_concepts/sr_v_lr.md
   - label: Specialisation
     file: specialisation.md
   - label: Division of Labour
@@ -30,8 +34,6 @@ items:
         file: elasticities/pes.md
   - label: Public goods
     file: public_goods.md
-  - label: Short Run vs Long Run
-    file: sr_v_lr.md
   - label: Economies of Scale
     file: economies_of_scale.md
   - label: Market failure

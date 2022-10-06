@@ -1,6 +1,7 @@
 items:
   - label: Brief
     file: README.md
+
   - label: Micro-Economics
   - label: PPF - Production Possibility Frontier
     file: ppf/ppf.md
@@ -56,6 +57,18 @@ items:
         file: government_intervention/subsidy.md
       - label: Regulation
         file: government_intervention/regulation.md
+  - label: Market Structures
+    file: market_structures/intro.md
+    items:
+      - label: "Perfect Competition"
+        file: market_structures/perfect_competition.md
+      - label: "Monopolistic"
+        file: market_structures/monopolistic.md
+      - label: "Oligopoly"
+        file: market_structures/oligopoly.md
+      - label: "Monopoly"
+        file: market_structures/monopoly.md
+
   - label: Macro-Economics
   - label: Macro Objectives
     file: macro-objectives.md

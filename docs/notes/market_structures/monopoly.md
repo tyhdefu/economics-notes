@@ -6,6 +6,8 @@ desc: Marketplace where one firm dominates
 **Legal monopoly** - 25% market share
 **Economic monopoly** - 40% market share
 
+![Monopoly](../diagrams/market_structures/monopolistic_sr.svg#mono-black)
+
 # Characteristics #
 - Very high barriers to entry
 - Price makers

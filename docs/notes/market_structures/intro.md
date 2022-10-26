@@ -10,6 +10,7 @@ They are:
 - <a href="oligopoly.html">Oligopoly</a>
 - <a href="monopoly.html">Monopoly</a>
 
+As well as an alternative model: <a href="contestable_markets.html">Contestable Markets</a>
 # Common topics #
 
 ## Types of Profit ##

@@ -14,16 +14,16 @@ They are:
 
 ## Types of Profit ##
 
-#### Accounting profit ####
+### Accounting profit ###
 Total Revenue > Total Costs
 
-#### Normal profit ####
+### Normal profit ###
 The **minimum** amount of profit required to remain in a marketplace.
 
 If profit falls below this, then the firm will leave the marketplace, 
 and switch to the next best alternative market.
 
-#### Super-normal profit (SNP) ####
+### Super-normal profit (SNP) ###
 The amount of profit above normal profit.
 
 ## Barriers to entry ##
@@ -40,3 +40,13 @@ Examples:
 
 ## Profit Maximisation ##
 This means firms try to maximise profit. This point is at **MR=MC**
+
+## Efficiency ##
+
+### Static efficiency ###
+Efficiency at a particular point in time (productive and allocative)
+
+### Dynamic Efficiency ###
+**Requires SNP in LR** - Monopoly, Oligopoly
+
+The development of new products and more efficient processes that improve productive efficiency in the LR.

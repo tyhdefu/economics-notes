@@ -34,3 +34,20 @@ Lower prices below market equilibrium and make losses until the other firm is fo
 
 ## Suppliers ##
 Refuse to buy raw materials unless they drop their prices - since suppliers depend on the firm for profit.
+
+# Natural Monopoly #
+In some cases, competition decreases efficiency, for example:
+- Railways
+- Water provision
+- Electricity - National grid
+
+## Characteristics ##
+- Extremely high capital cost to set up
+- Duplication is unnecessary and wasteful
+- Competition does not benefit the consumer
+
+![A Natural monopoly diagram, showing costs start very high and continually decrease](../diagrams/market_structures/natural_monopoly.svg#mono-black)
+
+Costs fall in the LR due to **Economies of Scale**, but do not increase due to Diseconomies of Scale.
+
+The Law of Diminishing returns does not apply to Natural Monopolies because there is so much Capital, that you can keep adding variable factors to it.

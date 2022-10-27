@@ -25,7 +25,7 @@ desc: Types of costs that firms incur
 | 5      | 60 | 225| 285| 12  | 57  | 105| 300| 60 | 60 |
 | 6      | 60 | 330| 390| 10  | 65  | N/A| 360| 60 | N/A|
 
-![SRAC Curve](diagrams\srac_curve.svg#mono-black)
+![SRAC Curve](diagrams/srac_curve.svg#mono-black)
 
 Productive Efficiency at Q
 

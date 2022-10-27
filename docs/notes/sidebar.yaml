@@ -17,6 +17,8 @@ items:
         file: basic_concepts/price_mechanism.md
       - label: "Short Run vs Long Run"
         file: basic_concepts/sr_v_lr.md
+  - label: "Surplus"
+    file: surplus.md
   - label: Specialisation
     file: specialisation.md
   - label: Division of Labour
@@ -74,7 +76,6 @@ items:
         file: market_structures/contestable_markets.md
   - label: "Costs for Firms"
     file: costs_for_firms.md
-
   - label: Macro-Economics
   - label: Macro Objectives
     file: macro-objectives.md

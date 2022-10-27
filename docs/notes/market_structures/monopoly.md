@@ -51,3 +51,44 @@ In some cases, competition decreases efficiency, for example:
 Costs fall in the LR due to **Economies of Scale**, but do not increase due to Diseconomies of Scale.
 
 The Law of Diminishing returns does not apply to Natural Monopolies because there is so much Capital, that you can keep adding variable factors to it.
+
+# Price Discrimination #
+Price discrimination is a way to reduce <a href="../surplus.html">consumer surplus</a>.
+
+You can eliminate consumer surplus with first degree price discrimination, in an auction.
+This allows you to extract the highest price from every consumer.
+
+## Types ##
+
+**First degree** - Different price to each individual consumer (perfect price discrimination)  
+**Second degree** - Different price to different groups of customers
+**Third degree** - Different price in each country
+
+## Consequences of Price Discrimination ##
+- Increased profits redistribute income from consumers to producers
+- Output will be larger
+- Higher revenue
+
+### Effect on Consumers ###
+- Loss of welfare - Consumer surplus disappears in 1st degree price discrimination
+- Inequitable - Some consumers have to pay more than others
+- If profits reinvested, consumers may get LR benefits, such as increased efficiency -> lower costs and prices
+- Lower prices might mean poorer consumers may be able to afford the product
+
+## Examples of second degree price discrimination ##
+- Adult vs Child tickets
+- Insurance -> age, no claims
+- Train -> Peak and off-peak
+- Flights -> School holidays / when you book
+
+## Why can train passengers be charged more for peak travel ##
+Peak travellers are travelling as a **necessity**, so their demand is **inelastic**, so they can raise prices without losing many customers.
+On the other hand, off-peak is usually leisure travel, so it is elastic, and if prices are raised, demand will fall quickly.
+
+## Uber Surge pricing ##
+Uber varies it prices a lot depending on:
+- Time
+- Demand
+- Rain / weather
+- Amount of available drivers / supply
+- Location

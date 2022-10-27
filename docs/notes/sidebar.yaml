@@ -72,6 +72,8 @@ items:
         file: market_structures/monopoly.md
       - label: "Contestable markets"
         file: market_structures/contestable_markets.md
+  - label: "Costs for Firms"
+    file: costs_for_firms.md
 
   - label: Macro-Economics
   - label: Macro Objectives

@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="97.95726mm"
+   height="77.934639mm"
+   viewBox="0 0 97.95726 77.934639"
+   version="1.1"
+   id="svg5"
+   sodipodi:docname="srac_curve.svg"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="1.104894"
+     inkscape:cx="24.889265"
+     inkscape:cy="276.04457"
+     inkscape:window-width="2560"
+     inkscape:window-height="1057"
+     inkscape:window-x="1672"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2">
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect968"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect796"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect792"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-30.90974,-28.7839)">
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 40.977195,31.156214 c 0,23.367425 0,46.734586 0,70.101486"
+       id="path790"
+       inkscape:path-effect="#path-effect792"
+       inkscape:original-d="m 40.977195,31.156214 c 2.65e-4,23.367425 2.65e-4,46.734586 0,70.101486" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 40.845329,101.12738 c 26.533493,0 53.066719,0 79.599681,0"
+       id="path794"
+       inkscape:path-effect="#path-effect796"
+       inkscape:original-d="m 40.845329,101.12738 c 26.533493,2.7e-4 53.066719,2.7e-4 79.599681,0" />
+    <path
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.265;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.997059"
+       id="path964"
+       sodipodi:type="arc"
+       sodipodi:cx="79.522888"
+       sodipodi:cy="32.674923"
+       sodipodi:rx="28.855518"
+       sodipodi:ry="59.507027"
+       sodipodi:start="0"
+       sodipodi:end="3.1415927"
+       sodipodi:open="true"
+       sodipodi:arc-type="arc"
+       d="M 108.37841,32.674923 A 28.855518,59.507027 0 0 1 93.950647,84.20952 28.855518,59.507027 0 0 1 65.095128,84.209519 28.855518,59.507027 0 0 1 50.66737,32.674923" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:2.11666, 1.05833;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 79.457446,92.193985 c 0,2.979168 0,5.958075 0,8.936715"
+       id="path966"
+       inkscape:path-effect="#path-effect968"
+       inkscape:original-d="m 79.457446,92.193985 c 2.64e-4,2.979168 2.64e-4,5.958075 0,8.936715" />
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
+       x="77.945831"
+       y="105.12509"
+       id="text1024"><tspan
+         sodipodi:role="line"
+         id="tspan1022"
+         style="stroke-width:0.264583"
+         x="77.945831"
+         y="105.12509">Q</tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.264583"
+         x="77.945831"
+         y="110.41676"
+         id="tspan1026" /></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
+       x="37.595989"
+       y="104.64616"
+       id="text1030"><tspan
+         sodipodi:role="line"
+         id="tspan1028"
+         style="stroke-width:0.264583"
+         x="37.595989"
+         y="104.64616">0</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
+       x="104.16724"
+       y="31.848831"
+       id="text1084"><tspan
+         sodipodi:role="line"
+         id="tspan1082"
+         style="stroke-width:0.264583"
+         x="104.16724"
+         y="31.848831">SRAC</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
+       x="30.651506"
+       y="31.968565"
+       id="text1088"><tspan
+         sodipodi:role="line"
+         id="tspan1086"
+         style="stroke-width:0.264583"
+         x="30.651506"
+         y="31.968565">Cost</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
+       x="114.76154"
+       y="105.70254"
+       id="text3290"><tspan
+         sodipodi:role="line"
+         id="tspan3288"
+         style="stroke-width:0.264583"
+         x="114.76154"
+         y="105.70254">Output</tspan></text>
+  </g>
+</svg>

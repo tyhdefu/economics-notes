@@ -30,3 +30,10 @@ desc: Types of costs that firms incur
 Productive Efficiency at Q
 
 Average Costs decrease as quantity increases, but then increase again due to the Law of Diminishing returns, as shown in the table
+
+# Law of Diminishing Returns #
+Additional variable factors of production such as Labour after an optimal point will lead to decreasing marginal returns.
+
+In the table, this begins at an output level of 3, and in the diagram, the optimal point is beyond Q (productive efficiency)
+
+This is because after an optimal point additional workers will get in eachother's way and become less productive.

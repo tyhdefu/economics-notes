@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="99.294098mm"
+   height="78.203934mm"
+   viewBox="0 0 99.294098 78.203934"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   sodipodi:docname="labour_demand.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="1.5625561"
+     inkscape:cx="91.196725"
+     inkscape:cy="218.87214"
+     inkscape:window-width="2560"
+     inkscape:window-height="1057"
+     inkscape:window-x="1672"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2">
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect792"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-15.967561,-38.123921)">
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 29.124288,41.993158 c 0,22.577232 0,45.154199 0,67.730902"
+       id="path790"
+       inkscape:path-effect="#path-effect792"
+       inkscape:original-d="m 29.124288,41.993158 c 2.64e-4,22.577232 2.64e-4,45.154199 0,67.730902" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 29.10995,109.70486 H 99.564424"
+       id="path6656" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 34.881415,47.580957 85.764253,98.463795"
+       id="path6658" />
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
+       x="86.864876"
+       y="100.41106"
+       id="text6714"><tspan
+         sodipodi:role="line"
+         id="tspan6712"
+         style="stroke-width:0.264583"
+         x="86.864876"
+         y="100.41106">MRP</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
+       x="15.916761"
+       y="41.146519"
+       id="text6768"><tspan
+         sodipodi:role="line"
+         id="tspan6766"
+         style="stroke-width:0.264583"
+         x="15.916761"
+         y="41.146519">Wage</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
+       x="98.040474"
+       y="115.31186"
+       id="text7498"><tspan
+         sodipodi:role="line"
+         id="tspan7496"
+         style="stroke-width:0.264583"
+         x="98.040474"
+         y="115.31186">Quantity</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
+       x="25.568415"
+       y="113.1106"
+       id="text7502"><tspan
+         sodipodi:role="line"
+         id="tspan7500"
+         style="stroke-width:0.264583"
+         x="25.568415"
+         y="113.1106">0</tspan></text>
+  </g>
+</svg>

@@ -76,6 +76,15 @@ items:
         file: market_structures/contestable_markets.md
   - label: "Costs for Firms"
     file: costs_for_firms.md
+  - label: "Labour Markets"
+    items:
+      - label: "Demand for Labour"
+        file: labour_market/demand.md
+      - label: "Supply for Labour"
+        file: labour_market/supply.md
+
+
+
   - label: Macro-Economics
   - label: Macro Objectives
     file: macro-objectives.md

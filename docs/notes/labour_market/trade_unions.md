@@ -11,9 +11,7 @@ A group of workers who join together to maintain and improve their conditions of
 ![Trade Union Diagram](../diagrams/labour_market/trade_union.svg#mono-black)
 
 A trade union bargains for a higher wage for all of its workers, creating a price floor on labour at WT.
-However - this can cause unemployment as firms have to reduce costs after their costs raise - they do this by firing some workers,
-so Q -> Q1. This unemployment may be mitigated by increasing labour productivity, such as workers agreeing to work harder. Sometimes workers
-will work harder due to their higher pay.
+However - this can cause unemployment as firms have to reduce costs after their costs raise - they do this by firing some workers, so Q -> Q1. This unemployment may be mitigated by increasing labour productivity, such as workers agreeing to work harder. Sometimes workers will work harder due to their higher pay.
 
 A trade union also creates a disequilibrium as there is excess supply of workers: more workers are willing to work at
 the wage WT than the firm demands.

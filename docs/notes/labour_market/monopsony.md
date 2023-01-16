@@ -12,17 +12,13 @@ This prevents a perfect labour market because a single firm has influence over t
 
 # NHS Example #
 The NHS is a Monopsony employer for Nurses.
-MCL for a Monospony is very high/steep because every time you attract new workers with a higher wage rate, the
-firm must increase the wages of **all existing workers** to match.
+MCL for a Monospony is very high/steep because every time you attract new workers with a higher wage rate, the firm must increase the wages of **all existing workers** to match.
 
 ![Monopsony diagram](../diagrams/labour_market/monopsony.svg#mono-black)
 
 In a competitive labour market the wage would be Wc and the quantity employed Qc.
 This would mean no profit as AC=AR.
-However, the monopsony uses the fact that it is the main employer to maximise profit (MC=MR)
-to limit employment to X and although there should be a higher wage, the monopsony pushed wages
-down to Wm since the workers don't have a choice but to accept the wage (they cannot lose workers, since
-there are no other firms able to hire them).
+However, the monopsony uses the fact that it is the main employer to maximise profit (MC=MR) to limit employment to X and although there should be a higher wage, the monopsony pushed wages down to Wm since the workers don't have a choice but to accept the wage (they cannot lose workers, since there are no other firms able to hire them).
 
 # Solution to Monopsony #
 A monopsony can be **partially** solved by a trade union.

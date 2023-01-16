@@ -82,6 +82,16 @@ items:
         file: labour_market/demand.md
       - label: "Supply for Labour"
         file: labour_market/supply.md
+      - label: "Labour Market failure"
+        file: labour_market/labour_market_failure.md
+      - label: "Monopsony"
+        file: labour_market/monopsony.md
+      - label: "Trade Unions"
+        file: labour_market/trade_unions.md
+      - label: "National Minimum Wage"
+        file: labour_market/national_minimum_wage.md
+  - label: "Firm's objectives"
+    file: firm_objectives.md
 
 
 

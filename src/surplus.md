@@ -1,9 +1,3 @@
----
-title: Surplus
-keywords: consumer surplus, producer surplus
-desc: Consumer and producer surplus
----
-
 # Consumer Surplus #
 The difference between what consumers are **willing to pay**, and the actual **market price**
 

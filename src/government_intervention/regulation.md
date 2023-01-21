@@ -1,9 +1,3 @@
----
-title: Regulation
-keywords: regulation, regulations, laws
-desc: Regulations
----
-
 Laws that are implemented to encourage or discourage the production or consumption of a good or service.
 
 # Examples #

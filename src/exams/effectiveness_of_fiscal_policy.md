@@ -1,9 +1,3 @@
----
-title: Fiscal Policy Essay Plan
-keywords: fiscal policy, essay
-desc: An essay plan for fiscal policy.
----
-
 # Definitions / Intro #
 **Current Spending** - Spending to keep day to day things running, such as paying NHS staff  
 **Capital Spending** - Spending on new public infrastructure and investments.

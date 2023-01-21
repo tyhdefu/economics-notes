@@ -1,9 +1,3 @@
----
-title: Positive Consumption Externality
-keywords: externality
-desc: Positive Consumption Externality
----
-
 # Education Example #
 
 <img src="../diagrams/positive_consumption_externality.svg#mono-black" alt="Positive Consumption Externality Diagram" style="width:70%;"/>

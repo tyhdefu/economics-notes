@@ -1,9 +1,3 @@
----
-title: Market Failure
-keywords: failure
-desc: Market Failure
----
-
 **Allocative Efficiency** - Where consumer satisfaction is maximised. At the equilibrium.
 
 **Market Failure** - Occurs when the free market mechanism fails to allocate resources in an efficient manner.

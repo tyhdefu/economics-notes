@@ -1,9 +1,3 @@
----
-title: Positive Production Externality
-keywords: externality
-desc: Positive Production Externality
----
-
 # Training in transferable skills Example #
 
 <img src="../diagrams/positive_production_externality.svg#mono-black" alt="Positive Production Externality Diagram" style="width:70%;"/>

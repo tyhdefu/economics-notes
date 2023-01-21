@@ -1,9 +1,3 @@
----
-title: Negative Consumption Externality
-keywords: externality
-desc: Negative Consumption Externality
----
-
 # Smoking Example #
 
 <img src="../diagrams/negative_consumption_externality.svg#mono-black" alt="Negative Consumption Externality Diagram" style="width:70%;"/>

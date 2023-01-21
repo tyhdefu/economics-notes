@@ -1,8 +1,3 @@
----
-title: National Minimum Wage
-keywords: nmw, national minimum wage, living wage
-desc: National Minimum Wage
----
 A national minimum wage is a wage that almost all workers are paid.
 
 # Positives #

@@ -1,9 +1,3 @@
----
-title: Oligopoly
-keywords: market
-desc: Marketplace where a few firms dominate
----
-
 ![Oligopoly diagram](../diagrams/market_structures/oligopoly_diagram.svg#mono-black)
 
 # Characteristics #

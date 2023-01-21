@@ -1,9 +1,3 @@
----
-title: Economies of Scale
-keywords: scale
-desc: Economies of scale
----
-
 **EOS** - Economies of scale  
 **MES** - Minimum efficient scale  
 **DOS** - Diseconomies of scale

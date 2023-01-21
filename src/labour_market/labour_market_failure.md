@@ -1,9 +1,3 @@
----
-title: Labour market failure
-keywords: labour, market failure
-desc: Labour market failure
----
-
 Labour market failure is where the free labour market fails to properly allocate resources.
 
 # Perfectly competitive Labour Market #

@@ -1,9 +1,3 @@
----
-title: Firm's objectives
-keywords: firm objectives, profit maximisation
-desc: Firm's possible objectives
----
-
 Firms can have a range of different objectives. 
 In Economics, we assume this is Profit Maximisation but this may not always be the case.
 

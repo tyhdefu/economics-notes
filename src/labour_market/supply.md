@@ -1,9 +1,3 @@
----
-title: Supply of Labour
-keywords: labour, supply
-desc: Supply of labour
----
-
 # Individual Supply of Labour #
 
 ## Income effect ##

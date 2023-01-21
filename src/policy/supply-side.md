@@ -1,8 +1,3 @@
----
-title: Supply Side Fiscal policy
-keywords: supply side, fiscal policy
-desc: Policies the government can use to cause a change in LRAS
----
 Supply side policies shift LRAS to the right. They are subset of fiscal policies.
 
 # Policies #

@@ -1,9 +1,3 @@
----
-title: Indirect tax
-keywords: tax
-desc: Indirection tax
----
-
 A payment that is levied on a good / service by the government.
 
 # Positives #

@@ -1,8 +1,3 @@
----
-title: Price Elasticity of Supply
-keywords: pes, elasticity
-desc: Price elasticity of demand
----
 Price elasticity of demand measures how the **supply** of a product varies with
 its **price**.
 

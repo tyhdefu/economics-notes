@@ -1,8 +1,3 @@
----
-title: Monopolistic
-keywords: market
-desc: Monopolistic marketplace
----
 # SR #
 
 ![Monopolistic in the SR](../diagrams/market_structures/monopolistic_sr.svg#mono-black)

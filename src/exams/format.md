@@ -1,9 +1,3 @@
----
-title: Answer format
-keywords: essay, answer
-desc: Answer formats for exams.
----
-
 # 15 Mark answer #
 Same as essay but no evaluation or judgement.
 - Intro

@@ -1,8 +1,3 @@
----
-title: Monetary Policy
-keywords: monetary, policy
-desc: Fiscal Policy
----
 The use of economic instruments such as:
 - Interest Rate
 - Exchange Rate

@@ -1,9 +1,3 @@
----
-title: Monopsony
-keywords: monopsony, labour market failure
-desc: Monopsony
----
-
 A Monopsony is a labour market dominated by a **single buyer of labour**.
 This prevents a perfect labour market because a single firm has influence over the labour market.
 

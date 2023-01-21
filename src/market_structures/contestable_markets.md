@@ -1,9 +1,3 @@
----
-title: Contestable markets
-keywords: market
-desc: An alternative model for how markets behave.
----
-
 The contestable markets model proposes that:
 - The number of firms is not the most important factor, instead it is the absence of barriers to entry and **sunk costs**
 - Contestable markets are assumed to have free entry to new firms and free exit for incumbents and new entrants

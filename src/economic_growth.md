@@ -1,9 +1,3 @@
----
-title: Economic Growth
-keywords: growth
-desc: Economic Growth
----
-
 One of the macro objectives is steady and sustainable growth.
 
 # Positives of economic growth #

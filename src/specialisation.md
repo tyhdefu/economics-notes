@@ -1,9 +1,3 @@
----
-title: Specialisation
-keywords: specialisation
-desc: Specialisation
----
-
 - Concentrating resources on a product or task
 - Happens within businesses
 - Can happen within a country, such as Bangladesh for textiles

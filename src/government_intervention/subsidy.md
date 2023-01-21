@@ -1,9 +1,3 @@
----
-title: Subsidy
-keywords: subsidy, subsidies
-desc: Subsidy
----
-
 A payment made to firms from the government in order to decrease the cost of production and increase supply of a good / service.
 
 # Examples #

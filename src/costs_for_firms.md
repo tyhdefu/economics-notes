@@ -1,9 +1,3 @@
----
-title: Costs for firms
-keywords: fixed costs, variable costs, marginal costs
-desc: Types of costs that firms incur
----
-
 **FC** - Fixed Costs - Costs that do not change depending on output, e.g Rent  
 **VC** - Variable Costs - Costs that change depending on output, e.g Raw materials  
 **TC** - Total Costs = FC + VC  

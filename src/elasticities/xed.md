@@ -1,8 +1,3 @@
----
-title: Cross Elasticity of Demand
-keywords: xed, elasticity
-desc: Cross elasticity of demand
----
 Cross elasticity of demand compares how the **demand** of one product varies with
 the **price** of **another product**.
 

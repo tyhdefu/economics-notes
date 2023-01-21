@@ -1,9 +1,3 @@
----
-title: Keynesian LRAS
-keywords: LRAS, Keynesian
-desc: An alternative model of the standard LRAS curve.
----
-
 The Keynesian model of LRAS is an alternative model of the standard LRAS curve.
 
 <img src="diagrams/keynesian_lras.svg#mono-black" alt="Keynesian LRAS Diagram" style="width:70%;"/>

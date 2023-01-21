@@ -1,9 +1,3 @@
----
-title: Minimum Price
-keywords: government intervention
-desc: Minimum Price Government Intervention
----
-
 A minimum price is set by the government to limit the price to a certain price level. It must be set above the market equilibrium price or it will have no effect.
 
 ![A line for minimum price, above the market equilibrium](../diagrams/minimum_price.svg#mono-black)

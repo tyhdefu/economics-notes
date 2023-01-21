@@ -1,8 +1,3 @@
----
-title: Monopoly
-keywords: market
-desc: Marketplace where one firm dominates
----
 **Legal monopoly** - 25% market share
 **Economic monopoly** - 40% market share
 

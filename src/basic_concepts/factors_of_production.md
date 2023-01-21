@@ -1,8 +1,3 @@
----
-title: Factors of production
-keywords: capital, enterprise, land, labour
-desc: The four factors of production
----
 **Land** - Raw materials available from mining, fishing, agriculture
 **Capital** - A manufactured item used to aid production, such as machines, factories and computers
 **Labour** - Human workers who are involved in producing the good

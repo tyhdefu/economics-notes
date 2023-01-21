@@ -1,8 +1,3 @@
----
-title: Balance of payments
-keywords: balance of payments
-desc: An economy's balance of payments
----
 The Balance of Payments records money flows into and out of the country in a given time period.
 
 ## What is it made of ##

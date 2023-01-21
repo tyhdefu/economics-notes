@@ -1,9 +1,3 @@
----
-title: Trade unions
-keywords: trade union
-desc: Trade unions
----
-
 A group of workers who join together to maintain and improve their conditions of employment including their pay.
 
 **Collective Bargaining** - A process where wages and other conditions of employment are negotiated and agreed upon by a union(s) with an employer(s)

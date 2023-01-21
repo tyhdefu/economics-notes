@@ -1,9 +1,3 @@
----
-title: Perfect Competition
-keywords: market
-desc: Perfect Competition marketplace
----
-
 Perfect competition is an ideal, unrealistic marketplace, useful to compare real marketplaces to.
 
 ![Perfect competition](../diagrams/market_structures/perfect_competition.svg#mono-black)

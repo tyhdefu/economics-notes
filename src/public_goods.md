@@ -1,9 +1,3 @@
----
-title: Public Goods
-keywords: public, goods
-desc: Public Goods
----
-
 # Main Characteristics #
 
 ## Non-excludability ##

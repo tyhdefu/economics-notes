@@ -1,8 +1,3 @@
----
-title: Fiscal Policy
-keywords: fiscal, policy
-desc: Fiscal Policy
----
 Fiscal Policy involves the use of government spending, direct and indirect taxation
 in order to achieve <a href="../macro-objectives.html">macro-economic objectives.</a>
 

@@ -1,8 +1,3 @@
----
-title: Inflation
-keywords: inflation, keyword2
-desc: description for this article
----
 Inflation is a sustained rise in the average price of goods and services over a given time period.
 
 Inflation means thee is a fall in the purchasing power of money. To beat inflation you need to invest and get higher returns than the inflation rate, or spend your money.

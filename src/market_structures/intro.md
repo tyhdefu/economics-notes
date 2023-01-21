@@ -1,8 +1,3 @@
----
-title: Market structures
-keywords: market
-desc: Introduction to Market Structures
----
 Market structures characterise how some markets behave. 
 They are:
 - <a href="perfect_competition.html">Perfect Competition</a>

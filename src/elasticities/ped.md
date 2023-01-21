@@ -1,6 +1,6 @@
 Price elasticity of Demand measures how responsive **Demand** when **price** is varied.
 
-$\text{PED}  =\frac{\%\Delta QD}{\%\Delta P}$
+\\( PED = \frac{\\%\Delta QD}{\\%\Delta P} \\)
 
 PED is almost always negative, since for most goods, price and demand are inversely proportional. (If something costs more, then you buy less.).
 

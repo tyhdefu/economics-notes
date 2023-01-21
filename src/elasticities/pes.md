@@ -1,7 +1,7 @@
 Price elasticity of demand measures how the **supply** of a product varies with
 its **price**.
 
-$\text{PES}  =\frac{\%\Delta QS}{\%\Delta P}$
+\\(\text{PES}  =\frac{\\%\Delta QS}{\\%\Delta P}\\)
 
 - Always positive
 

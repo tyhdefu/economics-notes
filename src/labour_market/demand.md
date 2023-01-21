@@ -10,8 +10,8 @@ Demand for labour is **derived**. This is because it is demanded for what it can
 # MRP - Measuring demand for Labour #
 MRP is the change in total revenue from employing one extra worker.
 
-$\text{MRP} = \text{Marginal Product} \times \text{Marginal Revenue}$
-$\text{MRP} = \text{Productivity} \times \text{Price}$
+\\(\text{MRP} = \text{Marginal Product} \times \text{Marginal Revenue}\\)
+\\(\text{MRP} = \text{Productivity} \times \text{Price}\\)
 
 # Factors that influence MRP #
 
@@ -44,7 +44,7 @@ By MR - Change in price of product being produced
 # WED - wage elasticity of demand #
 Wage elasticity measures how response demand for labour is to a change in wage.
 
-$WED = \frac{\%\Delta\text{ in DL}}{\%\Delta\text{ in W}}$
+\\(WED = \frac{\\%\Delta\text{ in DL}}{\\%\Delta\text{ in W}}\\)
 
 **Inelastic** - Rising wages will not greatly impact on the demand for labour  
 **Elastic** - Rising wages will have a large impact on the demand for labour

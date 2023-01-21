@@ -1,7 +1,7 @@
 Cross elasticity of demand compares how the **demand** of one product varies with
 the **price** of **another product**.
 
-$\text{XED}  =\frac{\%\Delta \text{QD of Product A}}{\%\Delta \text{P of Product B}}$
+\\(\text{XED}  =\frac{\\%\Delta \text{QD of Product A}}{\\%\Delta \text{P of Product B}}\\)
 
 ```
 <---- -2 ---- -1 ----- 0 ----- 1 ----- 2 ------>

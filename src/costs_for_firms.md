@@ -1,13 +1,13 @@
 **FC** - Fixed Costs - Costs that do not change depending on output, e.g Rent  
 **VC** - Variable Costs - Costs that change depending on output, e.g Raw materials  
 **TC** - Total Costs = FC + VC  
-**AC** (ATC) - Average Cost $= \frac{TC}{Output}$  
+**AC** (ATC) - Average Cost \\(= \frac{TC}{Output}\\)  
 **MC** - Marginal Costs - Cost for an extra unit of output
 
 # Revenue #
-**AR** - Average Revenue $= \frac{TR}{Output}$  
+**AR** - Average Revenue \\(= \frac{TR}{Output}\\)  
 **MR** - Marginal Revenue - Addition to revenue per extra unit produced  
-**TR** - Total Revenue $= Output \times Price = AR$
+**TR** - Total Revenue \\(= Output \times Price = AR\\)
 
 | Output | FC | VC | TC | AFC | ATC | MC | TR | AR | MR |
 | ---    |--- |--- |--- | --- | --- |--- |--- |--- |--- |

@@ -34,7 +34,7 @@ Population increases lead to a greater labour supply.
 # Wage elasticity of supply of labour #
 Wage elasticity of supply of labour measures how responsive supply of labour is to a change in wage.
 
-$WES = \frac{\%\Delta\text{ in SL}}{\%\Delta\text{ in W}}$
+\\(WES = \frac{\\%\Delta\text{ in SL}}{\\%\Delta\text{ in W}}\\)
 
 ## Factors that impact WES ##
 

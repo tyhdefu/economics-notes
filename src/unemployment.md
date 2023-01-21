@@ -3,13 +3,13 @@ Those individuals who are 16 to 66 who are *willing and able* to work, though ar
 **Macro Objective** - Achieve "Full employment"  
 **Full employment** - Unemployment at 3% or less
 
-$\text{Unemployment Rate}  =\frac{\text{People Working}}{\text{People able to work}}$
+\\(\text{Unemployment Rate}  =\frac{\text{People Working}}{\text{People able to work}}\\)
 
 Example:  
 1.64 million unemployed
 32.5 million in work
 
-UK = $\frac{\text{1.64 million}}{\text{32.5 million}}$ = 4.8%
+UK = \\(\frac{\text{1.64 million}}{\text{32.5 million}}\\) = 4.8%
 
 # Economically Inactive #
 - Students

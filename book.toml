@@ -1,0 +1,11 @@
+[book]
+authors = ["James"]
+language = "en"
+multilingual = false
+src = "src"
+title = "Economics AQA Notes"
+
+[output.html]
+site-url = "economics-notes"
+fold.enable = true
+mathjax-support = true

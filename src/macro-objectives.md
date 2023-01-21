@@ -1,0 +1,4 @@
+- Steady and sustainable growth
+- Full employment - 3% or less
+- Inflation - 2% (±1%)
+- Sustainably improve current account position

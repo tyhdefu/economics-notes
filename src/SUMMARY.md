@@ -55,8 +55,14 @@
   - [Discrimination](labour_market/discrimination.md)
 
 - [Firm's Objectives](firm_objectives.md)
----
+- [Distribution of Income](micro/distribution_of_income.md)
+- [Poverty](micro/poverty.md)
+- [Behavioural Economics](micro/behavioural_economics/README.md)
+  - [Nudges](micro/behavioural_economics/nudge.md)
+  - [Shoves](micro/behavioural_economics/shove.md)
+- [Marginal Utility](micro/marginal_utility.md)
 
+---
 # Macro-Economics
 - [Macro Objectives](macro-objectives.md)
 - [Unemployment](unemployment.md)

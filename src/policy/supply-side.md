@@ -2,6 +2,15 @@ Supply side policies shift LRAS to the right. They are subset of fiscal policies
 
 # Policies #
 
+|Free Market|Interventionist|
+|---|---|
+|Reduce T.U Power|Infrastructure Investment|
+|Privatisation   |Education and training|
+|Reduce benefits and income tax|Housing Supply|
+|Deregulation|Health Spending|
+|Lower corporation tax||
+|Flexible labour markets||
+
 ## Education and training ##
 
 - Improves Labour - more skilled workforce

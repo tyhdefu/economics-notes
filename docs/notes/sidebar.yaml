@@ -90,6 +90,8 @@ items:
         file: labour_market/trade_unions.md
       - label: "National Minimum Wage"
         file: labour_market/national_minimum_wage.md
+      - label: "Discrimination"
+        file: labour_market/discrimination.md
   - label: "Firm's objectives"
     file: firm_objectives.md
 

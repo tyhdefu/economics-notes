@@ -1,7 +1,7 @@
 # Individual Supply of Labour #
 
 ## Income effect ##
-The income effect is where a rise in wages makes people feel better off and therefore they may not feel a need to work as money hours.
+The income effect is where a rise in wages makes people feel better off and therefore they may not feel a need to work as many hours.
 
 ## Substitution effect ##
 As wages rise the opportunity cost of leisure rises.

@@ -56,7 +56,7 @@ This allows you to extract the highest price from every consumer.
 ## Types ##
 
 **First degree** - Different price to each individual consumer (perfect price discrimination)  
-**Second degree** - Different price to different groups of customers
+**Second degree** - Different price to different groups of customers  
 **Third degree** - Different price in each country
 
 ## Consequences of Price Discrimination ##

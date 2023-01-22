@@ -34,7 +34,7 @@ MRP is the change in total revenue from employing one extra worker.
 |6      |280   |20 |20     |400 |5600|
 
 # MRP for an industry #
-![A graph showing MRP sloping downwards, on a graph of wage against quantity](../diagrams/labour_market/labour_demand.svg#mono-black)
+![A graph showing MRP sloping downwards, on a graph of wage against quantity](diagrams/labour_demand.svg#mono-black)
 
 MRP can shift due to two factors:
 

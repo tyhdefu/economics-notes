@@ -8,7 +8,7 @@ Where groups of workers are treated differently to other workers in the same job
 
 # Example #
 
-![Labour market discrimination diagram](../diagrams/labour_market/discrimination.svg#mono-black)
+![Labour market discrimination diagram](diagrams/discrimination.svg#mono-black)
 
 MRP is the perfect labour market.
 MRP<sub>1</sub> is the perceived MRP of the discriminated group.

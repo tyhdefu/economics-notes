@@ -8,7 +8,7 @@ This prevents a perfect labour market because a single firm has influence over t
 The NHS is a Monopsony employer for Nurses.
 MCL for a Monospony is very high/steep because every time you attract new workers with a higher wage rate, the firm must increase the wages of **all existing workers** to match.
 
-![Monopsony diagram](../diagrams/labour_market/monopsony.svg#mono-black)
+![Monopsony diagram](diagrams/monopsony.svg#mono-black)
 
 In a competitive labour market the wage would be Wc and the quantity employed Qc.
 This would mean no profit as AC=AR.
@@ -17,7 +17,7 @@ However, the monopsony uses the fact that it is the main employer to maximise pr
 # Solution to Monopsony #
 A monopsony can be **partially** solved by a trade union.
 
-![Monopsony solution diagram](../diagrams/labour_market/monopsony_trade_union.svg#mono-black)
+![Monopsony solution diagram](diagrams/monopsony_trade_union.svg#mono-black)
 
 Collective bargaining allows the trade union to get a higher wage for its workers, moving the wage close to the competitive wage.
 

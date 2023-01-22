@@ -2,7 +2,7 @@ A group of workers who join together to maintain and improve their conditions of
 
 **Collective Bargaining** - A process where wages and other conditions of employment are negotiated and agreed upon by a union(s) with an employer(s)
 
-![Trade Union Diagram](../diagrams/labour_market/trade_union.svg#mono-black)
+![Trade Union Diagram](diagrams/trade_union.svg#mono-black)
 
 A trade union bargains for a higher wage for all of its workers, creating a price floor on labour at WT.
 However - this can cause unemployment as firms have to reduce costs after their costs raise - they do this by firing some workers, so Q -> Q1. This unemployment may be mitigated by increasing labour productivity, such as workers agreeing to work harder. Sometimes workers will work harder due to their higher pay.

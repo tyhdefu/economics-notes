@@ -10,7 +10,7 @@ As wages rise, the substitution effect may lead to more hours being worked.
 
 ## Diagram ##
 
-![Individual supply of labour diagram](../diagrams/labour_market/labour_supply.svg#mono-black)
+![Individual supply of labour diagram](diagrams/labour_supply.svg#mono-black)
 
 Each individual has an optimum amount of income. E.g, £1,110 optimum
 

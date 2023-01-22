@@ -1,3 +1,4 @@
+# Discrimination in the Labour Market #
 Where groups of workers are treated differently to other workers in the same job regarding pay and employment.
 
 **Wage discrimination** - Paying workers different wage rates for doing the same job

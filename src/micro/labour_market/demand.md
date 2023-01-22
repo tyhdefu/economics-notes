@@ -1,3 +1,4 @@
+# Demand for Labour #
 Demand for labour is **derived**. This is because it is demanded for what it can produce, rather than for the thing itself.
 
 # What determines the demand for Labour #

@@ -1,3 +1,4 @@
+# National minimum wage #
 A national minimum wage is a wage that almost all workers are paid.
 
 # Positives #

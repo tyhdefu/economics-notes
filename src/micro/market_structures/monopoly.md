@@ -1,7 +1,7 @@
 **Legal monopoly** - 25% market share
 **Economic monopoly** - 40% market share
 
-![Monopoly](../diagrams/market_structures/monopolistic_sr.svg#mono-black)
+![Monopoly](diagrams/monopolistic_sr.svg#mono-black)
 
 # Characteristics #
 - Very high barriers to entry
@@ -41,7 +41,7 @@ In some cases, competition decreases efficiency, for example:
 - Duplication is unnecessary and wasteful
 - Competition does not benefit the consumer
 
-![A Natural monopoly diagram, showing costs start very high and continually decrease](../diagrams/market_structures/natural_monopoly.svg#mono-black)
+![A Natural monopoly diagram, showing costs start very high and continually decrease](diagrams/natural_monopoly.svg#mono-black)
 
 Costs fall in the LR due to **Economies of Scale**, but do not increase due to Diseconomies of Scale.
 

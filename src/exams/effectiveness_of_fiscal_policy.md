@@ -4,7 +4,7 @@
 
 Fiscal policy involves the use of government spending, direct and indirect taxes to affect the achievement of macro objectives.
 
-![](../diagrams/ad-shift-right.svg#mono-black)
+![](../macro/policy/diagrams/ad-shift-right.svg#mono-black)
 
 # Analysis #
 
@@ -50,7 +50,7 @@ Fiscal policy involves the use of government spending, direct and indirect taxes
 # Judgements #
 - Depends on where the AD curve is on the keynesian LRAS curve.
 
-![](../diagrams/keynesian_lras.svg#mono-black)
+![](../macro/diagrams/keynesian_lras.svg#mono-black)
 
 (You don't need to draw this many AD lines in the exam)
 

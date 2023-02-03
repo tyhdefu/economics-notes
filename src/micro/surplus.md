@@ -9,7 +9,7 @@ The area shown is all consumer surplus.
 # Producer Surplus #
 The difference between what a supplier would be **willing to sell at**, and the actual **market price**
 
-![Consumer Surplus Diagram](diagrams/producer_surplus.svg#mono-black)
+![Producer Surplus Diagram](diagrams/producer_surplus.svg#mono-black)
 
 Here, the supplier would be willing to sell at 20p for a given output level, so they have a surplus of 80p when selling at the actual price of £1.
 The area shown is all producer surplus

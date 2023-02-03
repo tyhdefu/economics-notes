@@ -20,12 +20,12 @@ A payment that is levied on a good / service by the government.
 
 ## Elastic ##
 
-![Elastic demand, tax burden falling mostly on the firm](../diagrams/elastic_indirect_tax_burden.svg#mono-black)
+![Elastic demand, tax burden falling mostly on the firm](diagrams/elastic_indirect_tax_burden.svg#mono-black)
 
 When demand is elastic, consumers are *sensitive* to price changes, so the firm pays most of the tax, in order to maximise their profits.
 
 ## Inelastic ##
 
-![Inelastic demand, tax burden falling mostly on the consumer](../diagrams/inelastic_indirect_tax_burden.svg#mono-black)
+![Inelastic demand, tax burden falling mostly on the consumer](diagrams/inelastic_indirect_tax_burden.svg#mono-black)
 
 When demand is inelastic, consumers are *insensitive* to price changes, so the firm pushes the tax onto consumer to maximise profit.

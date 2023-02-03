@@ -27,7 +27,7 @@ This means that firms don't even have to enter the market to eliminate SNP, unli
 
 Incumbents also strive to be productively efficient in order to deter new entrants - the lower they costs are, the harder it is to compete with them.
 
-![Contestable markets diagram](../diagrams/market_structures/contestable_markets.svg#mono-black)
+![Contestable markets diagram](diagrams/contestable_markets.svg#mono-black)
 
 ## Point A ##
 Point of profit maximisation, without contestability

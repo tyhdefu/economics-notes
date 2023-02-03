@@ -30,11 +30,11 @@ A payment made to firms from the government in order to decrease the cost of pro
 With a subsidy, we want to increase quantity since there is a positive externality that is unaccounted for in the price.
 
 ## Positive Production ##
-![](../diagrams/subsidy_positive_production.svg#mono-black)
+![](diagrams/subsidy_positive_production.svg#mono-black)
 
 In order to correct a positive production market failure, we add a subsidy, adding a new line with the subsidy, which decreases the price and increases quantity.
 
 ## Positive Consumption ##
-![](../diagrams/subsidy_positive_consumption.svg#mono-black)
+![](diagrams/subsidy_positive_consumption.svg#mono-black)
 
 A positive consumption diagram is more complicated, we can move the quantity to the correct level, but the price will not be at the socially optimal level.

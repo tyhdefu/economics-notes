@@ -12,7 +12,7 @@ in order to achieve <a href="../macro-objectives.html">macro-economic objectives
 
 Expansionary monetary policy shifts AD to the right.
 
-![Right shift of AD](../diagrams/ad-shift-right.svg#mono-black)
+![Right shift of AD](diagrams/ad-shift-right.svg#mono-black)
 
 Benefits:
 - Grows economy
@@ -29,7 +29,7 @@ Negatives:
 
 Contractionary monetary policy shifts AD to the left.
 
-![Left shift of AD](../diagrams/ad-shift-left.svg#mono-black)
+![Left shift of AD](diagrams/ad-shift-left.svg#mono-black)
 
 Benefits:
 - Reduces inflation

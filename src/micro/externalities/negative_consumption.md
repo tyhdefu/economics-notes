@@ -1,6 +1,6 @@
 # Smoking Example #
 
-<img src="../diagrams/negative_consumption_externality.svg#mono-black" alt="Negative Consumption Externality Diagram" style="width:70%;"/>
+<img src="diagrams/negative_consumption_externality.svg#mono-black" alt="Negative Consumption Externality Diagram" style="width:70%;"/>
 
 **MSB < MPB**
 

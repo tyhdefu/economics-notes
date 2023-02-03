@@ -1,4 +1,4 @@
-![Oligopoly diagram](../diagrams/market_structures/oligopoly_diagram.svg#mono-black)
+![Oligopoly diagram](diagrams/oligopoly_diagram.svg#mono-black)
 
 # Characteristics #
 - High barriers to entry
@@ -36,7 +36,7 @@ If one firm drops their prices, the rest will follow, which leads to demand not 
 If one firm raises their prices, the rest will keep their prices the same, and consumers will switch to other firms, causing a big drop in demand (moving in the elastic region).  
 This means that the most logical thing to do is keep the price the same.
 
-![Kinked demand curve](../diagrams/market_structures/kinked_demand_curve.svg#mono-black)
+![Kinked demand curve](diagrams/kinked_demand_curve.svg#mono-black)
 
 # Discontinuous MR #
 In oligopoly, there is a gap in MR between the two MC curves. This is because between these two cost curves, firms **will not change their price**.

@@ -31,12 +31,12 @@ Gini coefficient = \\( \frac{A}{A+B} \\)
 Lower Gini coefficient -> less equality
 
 ### Inequal country - e.g Brazil ###
-![Lorenz Curve with high inequality](lorenz_curve_inequality.svg#mono-black)
+![Lorenz Curve with high inequality](diagrams/lorenz_curve_inequality.svg#mono-black)
 
 The curve is far from the Lorenz curve, this country has high inequality and a high Gini coefficient
 
 ### Equal country - e.g Czech Republic ###
-![Lorenz Curve with low inequality](lorenz_curve_equality.svg#mono-black)
+![Lorenz Curve with low inequality](diagrams/lorenz_curve_equality.svg#mono-black)
 
 The curve is close to the Lorenz curve, this country has low inequality and a low Gini coefficient
 

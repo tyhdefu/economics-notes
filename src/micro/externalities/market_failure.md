@@ -36,6 +36,6 @@ This third party is often the government.
 
 Negative Production Externality
 
-<img src="../diagrams/negative_production_externality.svg#mono-black" alt="Negative Production Externality" style="width:70%;"/>
+<img src="diagrams/negative_production_externality.svg#mono-black" alt="Negative Production Externality" style="width:70%;"/>
 
 **MSC > MPC**

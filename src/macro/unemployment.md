@@ -85,3 +85,37 @@ Some jobs are linked into certain times of the year, such as the tourist industr
 - The rate of unemployment (If unemployment is high, it is harder to get a job)
 - How long individuals have been unemployed for
 - The type of unemployment
+
+# Voluntary Unemployment #
+**Involuntary Unemployment** - Individuals made unemployed due to a recession / demand deficient unemployment  
+**Voluntary Unemployment** - Individuals who are unwilling to accept the going wage rate or the type of job available.
+
+**Real wage Unemployment** - The wage rate is above the equilibrium leading to firms reducing the amount of workers they employ.
+
+## Causes ##
+- Generous unemployment benefits, making accepting a job less attractive
+- High marginal tax rates, which reduce effective pay
+- Unemployed hoping to find a job more suited to their skills / qualifications
+- Some jobs too tedious, e.g. Fruit picking / Security guard
+
+## Solutions ##
+- Reduce unemployment benefits
+- Reduce income tax
+- Better information / easier to find a matching job
+- Retrain to the job they want to do, e.g. Nurse, Teacher (fill skills gaps)
+
+# NAIRU #
+**NAIRU** - Non-accelerating rate of inflation
+
+![NAIRU on Keynesian LRAS](diagrams/nairu.svg#mono-black)
+
+NAIRU the level of unemployment above which there will be inflation (labour market tightening).
+This is shown on the diagram - Moving AD past NAIRU will cause the price level to increase - i.e. inflation.
+
+## Decreasing NAIRU ##
+- Training and Education
+  - To fill skills gaps
+- Net migration for skilled workers
+- Reduce trade union power
+  - To stop wages increasing
+- Reduce benefits and income tax

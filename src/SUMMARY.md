@@ -69,6 +69,7 @@
 - [Inflation](macro/inflation.md)
 - [Economic Growth](macro/economic_growth.md)
 - [Keynesian LRAS](macro/keynesian_lras.md)
+- [Philips Curve](macro/philips_curve.md)
 
 - [Policies]()
   - [Monetary Policy](macro/policy/monetary-policy.md)

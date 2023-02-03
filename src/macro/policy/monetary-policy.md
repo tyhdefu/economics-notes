@@ -1,7 +1,8 @@
+# Monetary Policy #
 The use of economic instruments such as:
 - Interest Rate
 - Exchange Rate
-- Supply of money
+- Supply of money (Y2)
 
 in order to achieve <a href="../macro-objectives.html">macro-economic objectives</a>
 
@@ -38,3 +39,5 @@ Benefits:
 Negatives:
 - Shrinks economy
 - Increases unemployment
+
+# Money Supply / Quantitative Easing #

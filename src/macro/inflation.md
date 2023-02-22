@@ -20,10 +20,27 @@ For example:
 - Rising import prices, often due to a falling exchange rate -> increasing import costs.
 
 ## Money Stock ##
-<blockquote>We don't really need to know this one much.</blockquote>
-
 - Availability of credit
 - The amount of current in circulation
+
+### Quantity Theory of Money - Fisher Equation ###
+\\(MV = PQ\\)
+
+| Symbol | Meaning      | Explanation                                      | Variable / Constant |
+|--------|--------------|--------------------------------------------------|---------------------|
+| M      | Money Supply | The amount of credit available in the economy    | **Variable**        |
+| V      | Velocity     | The speed at which money is spent                | Constant            |
+| P      | Price Level  | The rate of inflation / deflation / disinflation | **Variable**        |
+| Q      | Real GDP     |                                                  | Constant            |
+
+Variable - Variable in SR and LR
+Constant - Constant in SR
+
+## Expectations ##
+When inflation becomes high, people expect it, meaning that they demand higher wages, and firms keep raising their
+prices because they can get away with it. This leads to inflation being "baked-in" to the economy.
+
+[See the philips curve for an example](philips_curve.md)
 
 # Consequences of Inflation #
 
@@ -92,3 +109,12 @@ This can lead to shedding labour causing higher unemployment. Higher unemploymen
 
 ### Can make exports more competitive ###
 Deflation can make exports more competitive eventually, but it often comes at a cost in the short term.
+
+
+# Solving Inflation #
+| Cause        | Intervention                                                                             | Drawback/Conflict                                                  |
+|--------------|------------------------------------------------------------------------------------------|--------------------------------------------------------------------|
+| Demand-pull  | Contraction demand-side policy<br>Increase IR                                            | Economy shrinks<br>Unemployment increases<br>Banks may not respond |
+| Cost-push    | Expansionary supply-side<br>Infrastructure Investment                                    | Expensive, takes a long time<br>Policy-specific issue              |
+| Expectations | Don't use demand side when at NRU<br>Use supply side                                     | Time lag                                                           |
+| Money Supply | Competent management by central bank<br>Money supply shouldn't rise faster than real gdp | Needs to be independent and competent                              |

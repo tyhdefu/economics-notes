@@ -78,6 +78,12 @@
   - [Supply Side Policy](macro/policy/supply-side.md)
 
 - [Balance Of Payments](macro/balance_of_payments.md)
+- [Financial Markets]()
+  - [Money](macro/financial_markets/money.md)
+  - [Types of Markets](macro/financial_markets/types_of_markets.md)
+  - [Banks](macro/financial_markets/banks.md)
+
+
 
 ---
 # Exam Help #

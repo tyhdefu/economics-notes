@@ -85,6 +85,7 @@
   - [Banks](macro/financial_markets/banks.md)
   - [Liquidity and Capital](macro/financial_markets/liquidity_and_capital.md)
   - [Credit Creation](macro/financial_markets/credit_creation.md)
+  - [2008 Financial Crisis](macro/financial_markets/2008.md)
   - [Financial Market Failure](macro/financial_markets/failure.md)
 
 

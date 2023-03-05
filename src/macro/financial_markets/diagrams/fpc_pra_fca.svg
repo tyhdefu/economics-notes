@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="200.25598mm"
+   height="95.785805mm"
+   viewBox="0 0 200.25598 95.785805"
+   version="1.1"
+   id="svg8"
+   inkscape:version="1.0.2 (e86c870879, 2021-01-15)"
+   sodipodi:docname="fpc_pra_fca.svg">
+  <defs
+     id="defs2">
+    <marker
+       style="overflow:visible;"
+       id="marker1354"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.8) rotate(180) translate(12.5,0)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         id="path1352" />
+    </marker>
+    <marker
+       style="overflow:visible;"
+       id="Arrow1Lend"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend"
+       inkscape:isstock="true"
+       inkscape:collect="always">
+      <path
+         transform="scale(0.8) rotate(180) translate(12.5,0)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         id="path1067" />
+    </marker>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.979899"
+     inkscape:cx="230.51391"
+     inkscape:cy="107.90699"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="2560"
+     inkscape:window-height="1016"
+     inkscape:window-x="1680"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-1.6142271,-44.433873)">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="89.380829"
+       y="52.288666"
+       id="text12"><tspan
+         sodipodi:role="line"
+         id="tspan10"
+         x="89.380829"
+         y="52.288666"
+         style="stroke-width:0.264583">FPC</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.23333px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="72.243332"
+       y="57.764023"
+       id="text16"><tspan
+         sodipodi:role="line"
+         id="tspan14"
+         x="72.243332"
+         y="57.764023"
+         style="font-size:4.23333px;stroke-width:0.264583">Financial policy Commitee</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="30.718395"
+       y="76.715263"
+       id="text20"><tspan
+         sodipodi:role="line"
+         id="tspan18"
+         x="30.718395"
+         y="76.715263"
+         style="stroke-width:0.264583">PRA</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="148.40854"
+       y="76.715263"
+       id="text20-3"><tspan
+         sodipodi:role="line"
+         id="tspan18-6"
+         x="148.40854"
+         y="76.715263"
+         style="stroke-width:0.264583">FCA</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.23333px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="9.3414745"
+       y="83.377548"
+       id="text16-7"><tspan
+         sodipodi:role="line"
+         id="tspan14-5"
+         x="9.3414745"
+         y="83.377548"
+         style="font-size:4.23333px;stroke-width:0.264583">Prudential Regulator Authority</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.23333px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="129.61174"
+       y="83.147011"
+       id="text16-7-6"><tspan
+         sodipodi:role="line"
+         id="tspan14-5-2"
+         x="129.61174"
+         y="83.147011"
+         style="font-size:4.23333px;stroke-width:0.264583">Financial Conduct Authority</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:5.64444px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="119.53525"
+       y="90.7509"
+       id="text108"><tspan
+         sodipodi:role="line"
+         id="tspan106"
+         x="119.53525"
+         y="90.7509"
+         style="font-size:5.64444px;stroke-width:0.264583">- Protect integrity of financial </tspan><tspan
+         sodipodi:role="line"
+         x="119.53525"
+         y="97.80645"
+         style="font-size:5.64444px;stroke-width:0.264583"
+         id="tspan110">  system</tspan><tspan
+         sodipodi:role="line"
+         x="119.53525"
+         y="104.862"
+         style="font-size:5.64444px;stroke-width:0.264583"
+         id="tspan112">- Protect Consumers</tspan><tspan
+         sodipodi:role="line"
+         x="119.53525"
+         y="111.91755"
+         style="font-size:5.64444px;stroke-width:0.264583"
+         id="tspan116">- Promote competition</tspan><tspan
+         sodipodi:role="line"
+         x="119.53525"
+         y="118.9731"
+         style="font-size:5.64444px;stroke-width:0.264583"
+         id="tspan211" /><tspan
+         sodipodi:role="line"
+         x="119.53525"
+         y="126.02865"
+         style="font-size:5.64444px;stroke-width:0.264583"
+         id="tspan213">- Hedge funds</tspan><tspan
+         sodipodi:role="line"
+         x="119.53525"
+         y="133.0842"
+         style="font-size:5.64444px;stroke-width:0.264583"
+         id="tspan215">- Brokers</tspan><tspan
+         sodipodi:role="line"
+         x="119.53525"
+         y="140.13976"
+         style="font-size:5.64444px;stroke-width:0.264583"
+         id="tspan217">- Financial Advisors</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:5.64444px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="1.8820354"
+       y="90.885498"
+       id="text108-9"><tspan
+         sodipodi:role="line"
+         x="1.8820354"
+         y="90.885498"
+         style="font-size:5.64444px;stroke-width:0.264583"
+         id="tspan116-0">Looks at solvency of</tspan><tspan
+         sodipodi:role="line"
+         x="1.8820354"
+         y="97.941048"
+         style="font-size:5.64444px;stroke-width:0.264583"
+         id="tspan163">specific markets</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:5.64444px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="1.3386197"
+       y="105.59132"
+       id="text108-93"><tspan
+         sodipodi:role="line"
+         x="1.3386197"
+         y="105.59132"
+         style="font-size:5.64444px;stroke-width:0.264583"
+         id="tspan112-6">- Insurance</tspan><tspan
+         sodipodi:role="line"
+         x="1.3386197"
+         y="112.64687"
+         style="font-size:5.64444px;stroke-width:0.264583"
+         id="tspan116-2">- BTL Mortgage</tspan><tspan
+         sodipodi:role="line"
+         x="1.3386197"
+         y="119.70242"
+         style="font-size:5.64444px;stroke-width:0.264583"
+         id="tspan209">- Credit Union</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker1354)"
+       d="M 70.321745,57.554402 41.071555,67.888845"
+       id="path237" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.265;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none;marker-end:url(#Arrow1Lend)"
+       d="m 129.10717,56.867163 29.37652,10.073646"
+       id="path239" />
+  </g>
+</svg>

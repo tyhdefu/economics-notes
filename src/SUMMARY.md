@@ -87,6 +87,7 @@
   - [Credit Creation](macro/financial_markets/credit_creation.md)
   - [2008 Financial Crisis](macro/financial_markets/2008.md)
   - [Financial Market Failure](macro/financial_markets/failure.md)
+  - [Post-2008 Regulation](macro/financial_markets/regulation.md)
 
 
 
@@ -94,3 +95,4 @@
 # Exam Help #
 - [Answer Format](exams/format.md)
 - [Fiscal Policy Essay Plan](exams/effectiveness_of_fiscal_policy.md)
+- [Financial Market Regulation Essay Plan](exams/financial_market_regulation.md)

@@ -81,7 +81,11 @@
 - [Financial Markets]()
   - [Money](macro/financial_markets/money.md)
   - [Types of Markets](macro/financial_markets/types_of_markets.md)
+  - [Business Finance](macro/financial_markets/business_finance.md)
   - [Banks](macro/financial_markets/banks.md)
+  - [Liquidity and Capital](macro/financial_markets/liquidity_and_capital.md)
+  - [Credit Creation](macro/financial_markets/credit_creation.md)
+  - [Financial Market Failure](macro/financial_markets/failure.md)
 
 
 

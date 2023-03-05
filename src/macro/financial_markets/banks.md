@@ -41,3 +41,5 @@ There is systemic risk from banks lending to each other (Money Markets) since a 
 | Securities (gov. and corp. bonds) | Short term borrowing                        |
 | Fixed assets (buildings)          | Share Capital                               |
 | Commercial and Treasury Bills     |                                             |
+
+

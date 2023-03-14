@@ -88,7 +88,7 @@
   - [2008 Financial Crisis](macro/financial_markets/2008.md)
   - [Financial Market Failure](macro/financial_markets/failure.md)
   - [Post-2008 Regulation](macro/financial_markets/regulation.md)
-
+  - [Functions of the Central Bank](macro/financial_markets/central_bank_functions.md)
 
 
 ---

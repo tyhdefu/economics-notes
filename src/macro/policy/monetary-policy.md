@@ -70,3 +70,36 @@ Since 2008, there is a new way.
   - Bubble pops, everyone tries to sell
   - Price drops rapidly
 - Larger gap between rich and poor
+
+# Monetary Policy Committee #
+The main objective of the monetary policy committee is inflation 2%.
+
+## Factors under Consideration ##
+The monetary policy committee's 9 members are presented with lots of information that influences their decision.
+
+- Financial Markets
+  - Share prices - Indicating investor confidence
+  - Household wealth
+  - Consumer confidence
+- The International Economy
+  - Including the US, Europe and Asia. Trends in ER of £ against $ and €.
+- Money and Credit
+  - Bank lending and consumer credit figures analysed
+- Demand and output
+  - Consumption and planned investment survey figures
+  - Rate of Real GDP growth
+- The Labour Market
+  - Figures of unemployment - Indicates demand-pull vs cost-push inflation
+- Costs and prices
+  - Manufacturer surveys of input costs and factory gate prices used as in indicator of whether firms are 
+    passing inflation onto consumers
+
+#### Problems with accurately forecasting inflation ####
+- CPI has multiple issues
+- External shocks can occur at any time
+  - Pandemic
+  - Russia's invasion of Ukraine
+
+### Transmission Mechanism ###
+
+![Base Rate takes 18 months to actually affect Inflation Rate](diagrams/base_rate_transmission.svg#mono-black)

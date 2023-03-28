@@ -76,6 +76,10 @@
   - [Monetary Policy](macro/policy/monetary-policy.md)
   - [Fiscal Policy](macro/policy/fiscal-policy.md)
   - [Supply Side Policy](macro/policy/supply-side.md)
+  - [Exchange Rates](macro/policy/exchange_rate/README.md)
+    - [Floating](macro/policy/exchange_rate/floating_exchange_rate.md)
+    - [Fixed](macro/policy/exchange_rate/fixed_exchange_rate.md)
+    - [Managed]()
 
 - [Balance Of Payments](macro/balance_of_payments.md)
 - [Financial Markets]()
@@ -89,7 +93,6 @@
   - [Financial Market Failure](macro/financial_markets/failure.md)
   - [Post-2008 Regulation](macro/financial_markets/regulation.md)
   - [Functions of the Central Bank](macro/financial_markets/central_bank_functions.md)
-
 
 ---
 # Exam Help #

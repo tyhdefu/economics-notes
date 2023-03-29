@@ -95,6 +95,9 @@
   - [Functions of the Central Bank](macro/financial_markets/central_bank_functions.md)
 
 - [Trade](macro/trade.md)
+- [Protectionism](macro/protectionism/README.md)
+  - [Infant Industry Argument](macro/protectionism/infant_industry_argument.md)
+  - [Sunset Industry Argument](macro/protectionism/sunset_industry_argument.md)
 
 ---
 # Exam Help #

@@ -99,7 +99,7 @@
   - [Infant Industry Argument](macro/protectionism/infant_industry_argument.md)
   - [Sunset Industry Argument](macro/protectionism/sunset_industry_argument.md)
   - [Free Trade](macro/protectionism/free_trade.md)
-
+  - [Tariffs](macro/protectionism/tariffs.md)
 ---
 # Exam Help #
 - [Answer Format](exams/format.md)

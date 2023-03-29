@@ -95,11 +95,12 @@
   - [Functions of the Central Bank](macro/financial_markets/central_bank_functions.md)
 
 - [Trade](macro/trade.md)
-- [Protectionism](macro/protectionism/README.md)
-  - [Infant Industry Argument](macro/protectionism/infant_industry_argument.md)
-  - [Sunset Industry Argument](macro/protectionism/sunset_industry_argument.md)
-  - [Free Trade](macro/protectionism/free_trade.md)
-  - [Tariffs](macro/protectionism/tariffs.md)
+  - [Protectionism](macro/trade/protectionism/README.md)
+    - [Infant Industry Argument](macro/trade/protectionism/infant_industry_argument.md)
+    - [Sunset Industry Argument](macro/trade/protectionism/sunset_industry_argument.md)
+    - [Tariffs](macro/trade/protectionism/tariffs.md)
+  - [Free Trade](macro/trade/free_trade.md)
+
 ---
 # Exam Help #
 - [Answer Format](exams/format.md)

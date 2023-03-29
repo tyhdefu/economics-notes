@@ -45,3 +45,4 @@ to buy the $. This causes the Yuan to fall in value and the $ to rise in value. 
   - They hope that the central bank runs out of local currency reserves
   - They can then sell it off for profit, and causes a massive drop in ER for the country
   - **Small countries** are more vulnerable
+- Don't have free control of monetary policy - have to keep in mind peg

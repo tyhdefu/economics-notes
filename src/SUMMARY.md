@@ -94,6 +94,8 @@
   - [Post-2008 Regulation](macro/financial_markets/regulation.md)
   - [Functions of the Central Bank](macro/financial_markets/central_bank_functions.md)
 
+- [Trade](macro/trade.md)
+
 ---
 # Exam Help #
 - [Answer Format](exams/format.md)

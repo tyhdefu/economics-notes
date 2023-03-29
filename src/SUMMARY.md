@@ -98,6 +98,7 @@
 - [Protectionism](macro/protectionism/README.md)
   - [Infant Industry Argument](macro/protectionism/infant_industry_argument.md)
   - [Sunset Industry Argument](macro/protectionism/sunset_industry_argument.md)
+  - [Free Trade](macro/protectionism/free_trade.md)
 
 ---
 # Exam Help #

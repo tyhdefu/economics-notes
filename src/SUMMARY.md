@@ -79,7 +79,7 @@
   - [Exchange Rates](macro/policy/exchange_rate/README.md)
     - [Floating](macro/policy/exchange_rate/floating_exchange_rate.md)
     - [Fixed](macro/policy/exchange_rate/fixed_exchange_rate.md)
-    - [Managed]()
+    - [Managed](macro/policy/exchange_rate/managed_exchange_rate.md)
 
 - [Balance Of Payments](macro/balance_of_payments.md)
 - [Financial Markets]()

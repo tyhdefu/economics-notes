@@ -94,12 +94,14 @@
   - [Post-2008 Regulation](macro/financial_markets/regulation.md)
   - [Functions of the Central Bank](macro/financial_markets/central_bank_functions.md)
 
-- [Trade](macro/trade.md)
+- [Trade](macro/trade/trade.md)
   - [Protectionism](macro/trade/protectionism/README.md)
     - [Infant Industry Argument](macro/trade/protectionism/infant_industry_argument.md)
     - [Sunset Industry Argument](macro/trade/protectionism/sunset_industry_argument.md)
     - [Tariffs](macro/trade/protectionism/tariffs.md)
   - [Free Trade](macro/trade/free_trade.md)
+  - [Changing Patterns](macro/trade/changing_patterns.md)
+  - [Economic Integration](macro/trade/economic_integration.md)
 
 ---
 # Exam Help #

@@ -1,6 +1,7 @@
 [Introduction](README.md)
 
 # Micro-Economics
+- [Specification](micro/spec.md)
 - [PPF](micro/ppf/ppf.md)
 
 - [Basic Concepts]()
@@ -29,7 +30,7 @@
   - [Positive Production Externality](micro/externalities/positive_production.md)
   - [Positive Consumption Externality](micro/externalities/positive_consumption.md)
 
-- [Government Intervention]()
+- [Government Intervention](micro/government_intervention/README.md)
   - [Indirect Tax](micro/government_intervention/indirect_tax.md)
   - [Minimum Price](micro/government_intervention/minimum_price.md)
   - [Maximum Price](micro/government_intervention/maximum_price.md)
@@ -45,7 +46,7 @@
 
 - [Costs For firms](micro/costs_for_firms.md)
 
-- [Labour Markets]()
+- [Labour Markets](micro/labour_market/README.md)
   - [Demand for Labour](micro/labour_market/demand.md)
   - [Supply for Labour](micro/labour_market/supply.md)
   - [Labour Market failure](micro/labour_market/labour_market_failure.md)
@@ -64,6 +65,7 @@
 
 ---
 # Macro-Economics
+- [Specification](macro/spec.md)
 - [Macro Objectives](macro/macro-objectives.md)
 - [Unemployment](macro/unemployment.md)
 - [Inflation](macro/inflation.md)

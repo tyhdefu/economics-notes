@@ -16,7 +16,7 @@ This uses the AQA specification from [here](https://www.aqa.org.uk/subjects/econ
 - The [circular flow of income](circular_flow_of_income.md)
 - [Aggregate Demand](aggregate_demand.md)
 - [Aggregate Supply](aggregate_supply.md)
-- Long run aggregate supply - TODO
+- Long run aggregate supply
   - [Classical LRAS](aggregate_supply.md#classical-lras)
   - [Keynesian LRAS](keynesian_lras.md)
 

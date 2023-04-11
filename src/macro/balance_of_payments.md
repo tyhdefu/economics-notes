@@ -1,3 +1,5 @@
+# Balance of Payments #
+
 The Balance of Payments records money flows into and out of the country in a given time period.
 
 ## What is it made of ##

@@ -67,6 +67,10 @@
 # Macro-Economics
 - [Specification](macro/spec.md)
 - [Macro Objectives](macro/macro-objectives.md)
+- [Circular Flow of Income](macro/circular_flow_of_income.md)
+- [Aggregate Demand](macro/aggregate_demand.md)
+- [Aggregate Supply](macro/aggregate_supply.md)
+- [Economic Cycle](macro/economic_cycle.md)
 - [Unemployment](macro/unemployment.md)
 - [Inflation](macro/inflation.md)
 - [Economic Growth & Development](macro/economic_growth/README.md)

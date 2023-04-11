@@ -1,3 +1,5 @@
+# Inflation #
+
 Inflation is a sustained rise in the average price of goods and services over a given time period.
 
 Inflation means thee is a fall in the purchasing power of money. To beat inflation you need to invest and get higher returns than the inflation rate, or spend your money.
@@ -35,6 +37,22 @@ For example:
 
 Variable - Variable in SR and LR
 Constant - Constant in SR
+
+## Measuring inflation ##
+
+### Consumer Price Index ###
+- Survey 40,000 households in order to research the most commonly purchased goods
+- Create a basket of goods that contains 700 products to represent the economy
+- Attach weightings to these goods based on their importance and how frequently they are purchased.
+
+#### Limitations of CPI ####
+- Not fully representative of some households - 14% of CPI is motoring costs
+- Spending patterns - Single people have different spending patterns compared to those with children
+- Quality - The CPI does not take into account changes in quality. Prices could rise but also be accompanied by higher quality, which would not be inflation.
+- Slow to respond - CPI is slow to respond to new products and services. The CPI basket is changed every year but only a few items fall in / come out
+
+### Retail Price Index ###
+Calculated in a similar way but includes more factors such as mortgage interest payments and council tax.
 
 ## Expectations ##
 When inflation becomes high, people expect it, meaning that they demand higher wages, and firms keep raising their

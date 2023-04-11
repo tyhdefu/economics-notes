@@ -33,7 +33,7 @@ This uses the AQA specification from [here](https://www.aqa.org.uk/subjects/econ
   - [Types](unemployment.md#types-of-unemployment) of unemployment
   - Consequences of unemployment
   - Real wage unemployment
-  - Natural rate of unemployment - TODO
+  - [Natural rate of unemployment](philips_curve.md#natural-rate-of-unemployment)
 
 ## [Inflation](inflation.md) and deflation ##
 - Inflation and deflation
@@ -57,7 +57,7 @@ This uses the AQA specification from [here](https://www.aqa.org.uk/subjects/econ
     - FOREX
   - The role of financial markets in the wider economy - TODO
   - Debt vs. equity - TODO
-  - Bonds
+  - [Bonds](government_bonds.md)
     - The reason for the inverse relationship between IR and bond prices
 - [Commerical banks and investment banks](financial_markets/banks.md)
   - Different types of banks
@@ -110,7 +110,7 @@ This uses the AQA specification from [here](https://www.aqa.org.uk/subjects/econ
   - The difference between supply side policies and supply side improvements
     - Supply side changes often come from the private sector, i.e technology improvements, investment
   - How supply side policies such as tax changes designed to change personal incentives, may increase potential output of economy and increase growth
-  - The role of supply side policies in reducing the natural rate of unemployment - TODO
+  - The role of supply side policies in reducing the [natural rate of unemployment](philips_curve.md#natural-rate-of-unemployment)
   - Free market supply side policies
     - Tax cuts
     - Privatisation

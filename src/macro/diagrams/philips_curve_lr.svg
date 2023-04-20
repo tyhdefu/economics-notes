@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="116.55959mm"
+   height="69.994995mm"
+   viewBox="0 0 116.55959 69.994995"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   sodipodi:docname="lr_philips_curve.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="4.3641424"
+     inkscape:cx="50.29625"
+     inkscape:cy="63.242666"
+     inkscape:window-width="2560"
+     inkscape:window-height="1011"
+     inkscape:window-x="1680"
+     inkscape:window-y="32"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-42.285748,-64.068055)">
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 62.365474,68.516573 V 126.98675 H 133.37116"
+       id="path2242" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.249271px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 84.840896,74.948556 V 126.94856"
+       id="path2246" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.249271px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 107.46111,74.949 v 52"
+       id="path2246-3" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.93889px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="78.725677"
+       y="74.30822"
+       id="text3163"><tspan
+         sodipodi:role="line"
+         id="tspan3161"
+         style="font-size:4.93889px;stroke-width:0.264583"
+         x="78.725677"
+         y="74.30822">LRPC<tspan
+   style="font-size:65%;baseline-shift:sub"
+   id="tspan3217">1</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.93889px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="100.77367"
+       y="74.429382"
+       id="text3163-6"><tspan
+         sodipodi:role="line"
+         id="tspan3161-7"
+         style="font-size:4.93889px;stroke-width:0.264583"
+         x="100.77367"
+         y="74.429382">LRPC<tspan
+   style="font-size:65%;baseline-shift:sub"
+   id="tspan3258">2</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.93889px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="42.088192"
+       y="67.846306"
+       id="text3262"><tspan
+         sodipodi:role="line"
+         id="tspan3260"
+         style="font-size:4.93889px;stroke-width:0.264583"
+         x="42.088192"
+         y="67.846306">Inflation</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.93889px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="58.348759"
+       y="130.62978"
+       id="text3266"><tspan
+         sodipodi:role="line"
+         id="tspan3264"
+         style="font-size:4.93889px;stroke-width:0.264583"
+         x="58.348759"
+         y="130.62978">0</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.93889px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="122.83096"
+       y="132.87772"
+       id="text3266-3"><tspan
+         sodipodi:role="line"
+         id="tspan3264-5"
+         style="font-size:4.93889px;stroke-width:0.264583"
+         x="122.83096"
+         y="132.87772">Unemployment</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.93889px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="102.59634"
+       y="131.40819"
+       id="text3303"><tspan
+         sodipodi:role="line"
+         id="tspan3301"
+         style="font-size:4.93889px;stroke-width:0.264583"
+         x="102.59634"
+         y="131.40819">NRU</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.93889px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="79.456993"
+       y="131.17778"
+       id="text3303-6"><tspan
+         sodipodi:role="line"
+         id="tspan3301-2"
+         style="font-size:4.93889px;stroke-width:0.264583"
+         x="79.456993"
+         y="131.17778">NRU<tspan
+   style="font-size:65%;baseline-shift:sub"
+   id="tspan3338">1</tspan></tspan></text>
+  </g>
+</svg>

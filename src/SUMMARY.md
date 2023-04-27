@@ -114,6 +114,9 @@
   - [Changing Patterns](macro/trade/changing_patterns.md)
   - [Economic Integration](macro/trade/economic_integration.md)
   - [Customs Unions](macro/trade/customs_union.md)
+  - [World Trade Organisation](macro/trade/world_trade_organisation.md)
+
+- [Human Development Index](macro/economic_growth/hdi.md)
 
 ---
 # Exam Help #

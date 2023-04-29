@@ -52,3 +52,18 @@ Direct tax is levied on income, wealth and profit.
 Indirect taxes are taxes on spending.
 - Duties on fuel, cigarettes and alcohol
 - VAT
+
+# Crowding Out #
+The crowding out view is that a rapid increase in government spending / borrowing may steal scarce productive resources from  the private sector, and end up in the public sector, where there is lower efficiency. This view is a classical view.
+
+- To cover budget, the government borrows money
+- To do this it sells bonds to private sector, which raise its revenue.
+
+In order to get institutions to buy bonds, it might mean having to raise the interest rate.
+- But raising the interest rate increases saving / reduces investment.
+- This means more firms will save and lend their money since interest rates are higher
+- But also, the cost of borrowing increases **for firms**, meaning it is harder for them to invest, so investment reduces
+
+AD = C + I + G + (X-M)
+
+Government spending increases, but investment decreases, so no actual growth in AD occurs.

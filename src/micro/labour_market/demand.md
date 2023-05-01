@@ -11,7 +11,7 @@ Demand for labour is **derived**. This is because it is demanded for what it can
 # MRP - Measuring demand for Labour #
 MRP is the change in total revenue from employing one extra worker.
 
-\\(\text{MRP} = \text{Marginal Product} \times \text{Marginal Revenue}\\)
+\\(\text{MRP} = \text{Marginal Product} \times \text{Marginal Revenue}\\)  
 \\(\text{MRP} = \text{Productivity} \times \text{Price}\\)
 
 # Factors that influence MRP #

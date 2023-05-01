@@ -2,7 +2,7 @@
 A Monopsony is a labour market dominated by a **single buyer of labour**.
 This prevents a perfect labour market because a single firm has influence over the labour market.
 
-**ACL** - Average cost of Labour = \\(\frac{\text{Total wage costs}}{\text{Number of workers employed}}\\)
+**ACL** - Average cost of Labour = \\(\frac{\text{Total wage costs}}{\text{Number of workers employed}}\\)  
 **MCL** - Marginal cost of labour - Addition to cost from employing 1 more worker
 
 # NHS Example #

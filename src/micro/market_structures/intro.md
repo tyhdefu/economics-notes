@@ -7,20 +7,7 @@ They are:
 
 As well as an alternative model: <a href="contestable_markets.html">Contestable Markets</a>
 # Common topics #
-
-## Types of Profit ##
-
-### Accounting profit ###
-Total Revenue > Total Costs
-
-### Normal profit ###
-The **minimum** amount of profit required to remain in a marketplace.
-
-If profit falls below this, then the firm will leave the marketplace, 
-and switch to the next best alternative market.
-
-### Super-normal profit (SNP) ###
-The amount of profit above normal profit.
+- [Profit](profit.md)
 
 ## Barriers to entry ##
 Barriers to entry are factors that prevents new entrants into a marketplace.

@@ -1,9 +1,9 @@
 # Types of Markets #
 
-## Money Markets ##
+## Money Markets - Short term lending / borrowing ##
 Financial institutions who wish to borrow or lend on a short term basis, provides liquidity
 
-## Capital Markets ##
+## Capital Markets - Bonds & Shares ##
 
 ### Primary ###
 Initial sale:
@@ -14,7 +14,7 @@ Initial sale:
 - Trading existing bonds
 - Trading shares on London Stock Exchange
 
-## Forex Markets ##
+## Forex Markets - Currency Exchange ##
 Foreign exchange markets - Trading currency
 
 **Spot Transaction** - Buying foreign/local currency **now**

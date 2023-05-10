@@ -15,12 +15,6 @@ Factors that rational agents consider
 - Price
 - Comparison to substitutes
 
-## Cognitive Bias ##
-A mistake in reasoning or in some other mental thought occurring as a result of using rules of thumb
-or holding onto one's preferences and beliefs, regardless of contrary information.
-
-**Rule of thumb** - A rough and practical method that can be easily applied when making decisions
-
 ## Anchoring ##
 A cognitive bias describing the human tendency when making decisions to rely too heavily on the first piece
 of information offered (the anchor).

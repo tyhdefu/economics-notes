@@ -9,6 +9,8 @@ Labour market failure is where the free labour market fails to properly allocate
 - No individual firm can influence the market
 - Doesn't exist
 
+![Perfectly competitive labour market](diagrams/perfect_competition.svg#mono-black)
+
 | Labour market Failure | Solution | Drawbacks |
 |---|---|---|
 |[Monopsony](monopsony.md)|Trade unions|Trade unions can cause wages to become too high in non-monospony markets|

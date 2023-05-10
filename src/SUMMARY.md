@@ -38,6 +38,7 @@
   - [Regulation](micro/government_intervention/regulation.md)
 
 - [Market Structures](micro/market_structures/intro.md)
+  - [Profit](micro/market_structures/profit.md)
   - [Perfect Competition](micro/market_structures/perfect_competition.md)
   - [Monopolistic](micro/market_structures/monopolistic.md)
   - [Oligopoly](micro/market_structures/oligopoly.md)
@@ -59,6 +60,8 @@
 - [Distribution of Income](micro/distribution_of_income.md)
 - [Poverty](micro/poverty.md)
 - [Behavioural Economics](micro/behavioural_economics/README.md)
+  - [Bounded Rationality](micro/behavioural_economics/bounded_rationality.md)
+  - [Irrational Behaviour](micro/behavioural_economics/irrational_behaviour.md)
   - [Nudges](micro/behavioural_economics/nudge.md)
   - [Shoves](micro/behavioural_economics/shove.md)
 - [Marginal Utility](micro/marginal_utility.md)

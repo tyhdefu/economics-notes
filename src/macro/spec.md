@@ -127,11 +127,11 @@ This uses the AQA specification from [here](https://www.aqa.org.uk/subjects/econ
   - The consequences of globalisation for less-developed and more developed countries
   - The role of multinational corporations in globalisation
 - Trade
-  - [Comparative and Absolute Advantage](trade/README.md)
+  - [Comparative and Absolute Advantage](trade/index.html)
     - This shows specialisation can increase total output
   - Other benefits of trade, such as economies of scale
   - The reasons for [changing patterns of trade](trade/changing_patterns.md) between the UK and the rest of the world
-  - The nature of [protectionist](trade/protectionism/README.md)
+  - The nature of [protectionist](trade/protectionism/index.html)
     - Tariffs, quotas, export subsidies
     - Causes and consequences of countries adopting protectinist policies
   - The main features of a [customs union](trade/customs_union.md)
@@ -150,12 +150,12 @@ This uses the AQA specification from [here](https://www.aqa.org.uk/subjects/econ
   - The conflicts that these policies could have on other macro objectives
   - Significance of a deficit / surplus for an individual economy
   - The implications for the global economy of a major economy or economies with imbalances deciding to take corrective action. ?
-- [Exchange rate systems](policy/exchange_rate/README.md)
+- [Exchange rate systems](policy/exchange_rate/index.html)
   - Freely [floating](policy/exchange_rate/floating_exchange_rate.md)
   - How governments can intervene the exchange rate
   - Advantages of [fixed](policy/exchange_rate/fixed_exchange_rate.md) / floating ER systems.
   - Advantages / disadvantages for a country joining a currency union such as the eurozone
-- Economic [growth and development](economic_growth/README.md)
+- Economic [growth and development](economic_growth/index.html)
   - The difference between growth and [development](economic_growth/development.md)
   - The main characteristics of [less developed countries](economic_growth/ldc.md)
   - Main indicators of development including the Human Development Index (HDI)

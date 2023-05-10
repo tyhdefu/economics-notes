@@ -47,7 +47,7 @@ Foreign Aid is intended to help stimulate growth and development in the LDC.
 It is intended to kick start the "take-off" stage.
 
 It can be argued that developed nations will receive a benefit from the LDC developing,
-as they will gain a trading partner.A
+as they will gain a trading partner.
 
 There are also humanitarian reasons for foreign aid. This can include helping to
 alleviate poverty and address income inequality. It can help solve market failure

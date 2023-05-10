@@ -13,7 +13,7 @@ Credit: The current account is credited when money flows into it from abroad
 
 Debit: The current account is debited when money flows out from the UK to abroad.
 
-Exports -> Credit
+Exports -> Credit  
 Imports -> Debit
 
 # Current Account #

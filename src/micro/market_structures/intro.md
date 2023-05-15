@@ -1,3 +1,4 @@
+# Market Structures Intro #
 Market structures characterise how some markets behave. 
 They are:
 - <a href="perfect_competition.html">Perfect Competition</a>
@@ -7,7 +8,7 @@ They are:
 
 As well as an alternative model: <a href="contestable_markets.html">Contestable Markets</a>
 # Common topics #
-- [Profit](profit.md)
+[The types of profit](profit.md)
 
 ## Barriers to entry ##
 Barriers to entry are factors that prevents new entrants into a marketplace.

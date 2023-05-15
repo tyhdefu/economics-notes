@@ -1,3 +1,4 @@
+# Income Elasticity of Demand - YED #
 Income elasticity of demand measures how responsive **Demand** is when **income** is varied.
 
 \\(\text{YED}  =\frac{\\%\Delta QD}{\\%\Delta Y}\\)

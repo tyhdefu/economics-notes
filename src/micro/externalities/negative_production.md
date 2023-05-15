@@ -1,4 +1,4 @@
-# Pollution Example #
+# Negative Production - Pollution Example #
 
 <img src="diagrams/negative_production_externality.svg#mono-black" alt="Negative Production Externality Diagram" style="width:70%;"/>
 

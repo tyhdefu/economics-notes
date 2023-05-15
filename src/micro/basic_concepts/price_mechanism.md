@@ -1,3 +1,5 @@
+# The Price Mechanism #
+
 The price mechanism is the means by which decisions of consumers and businesses interact to determine the ***allocation of resources***.  
 It does **not** necessary lead to a equitable distribution of resources, and can lead to market failure.
 

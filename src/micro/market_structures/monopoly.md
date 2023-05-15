@@ -1,7 +1,10 @@
-**Legal monopoly** - 25% market share
+# Monopoly #
+A monopoly is a market structure where a single firm dominates, so they can abuse their market power.
+
+**Legal monopoly** - 25% market share  
 **Economic monopoly** - 40% market share
 
-![Monopoly](diagrams/monopolistic_sr.svg#mono-black)
+![Monopoly diagram](diagrams/monopolistic_sr.svg#mono-black)
 
 # Characteristics #
 - Very high barriers to entry
@@ -48,7 +51,7 @@ Costs fall in the LR due to **Economies of Scale**, but do not increase due to D
 The Law of Diminishing returns does not apply to Natural Monopolies because there is so much Capital, that you can keep adding variable factors to it.
 
 # Price Discrimination #
-Price discrimination is a way to reduce <a href="../surplus.html">consumer surplus</a>.
+Price discrimination is a way to reduce <a href="../surplus.html">consumer surplus</a> and turn in into producer surplus.
 
 You can eliminate consumer surplus with first degree price discrimination, in an auction.
 This allows you to extract the highest price from every consumer.
@@ -61,8 +64,8 @@ This allows you to extract the highest price from every consumer.
 
 ## Consequences of Price Discrimination ##
 - Increased profits redistribute income from consumers to producers
-- Output will be larger
-- Higher revenue
+- Output will be larger -> Greater Economies of Scale
+- Higher revenue -> Potential for greater SNP -> More R&D / Dynamic efficiency
 
 ### Effect on Consumers ###
 - Loss of welfare - Consumer surplus disappears in 1st degree price discrimination

@@ -1,3 +1,4 @@
+# Indirect Tax #
 A payment that is levied on a good / service by the government.
 
 # Positives #

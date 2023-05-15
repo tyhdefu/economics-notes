@@ -1,3 +1,4 @@
+# Cross Elasticity of Demand #
 Cross elasticity of demand compares how the **demand** of one product varies with
 the **price** of **another product**.
 

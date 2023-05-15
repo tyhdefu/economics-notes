@@ -1,3 +1,4 @@
+# Price Elasticity of Demand #
 Price elasticity of Demand measures how responsive **Demand** when **price** is varied.
 
 \\( PED = \frac{\\%\Delta QD}{\\%\Delta P} \\)

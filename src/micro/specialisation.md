@@ -1,3 +1,4 @@
+# Specialisation #
 - Concentrating resources on a product or task
 - Happens within businesses
 - Can happen within a country, such as Bangladesh for textiles
@@ -11,3 +12,4 @@
 - Less demand. Producing a smaller range of products means there are less customers want one of your goods so you may struggle to sell as many products as you could produce.
 
 - Vulnerability. You are vulnerable to changes in wants of consumers. You are also more vulnerable to any laws that may be made, such as if you are producing tobacco. It may also make economies / businesses that depend on you vulnerable. If you go out of business there could be a lack of supply in a good, though this only applies for large businesses.
+

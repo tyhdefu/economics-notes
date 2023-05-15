@@ -1,9 +1,10 @@
-**EOS** - Economies of scale  
-**MES** - Minimum efficient scale  
-**DOS** - Diseconomies of scale
+# Economies of Scale #
 
 ![A graph of average costs vs Output, showing costs fall at first, then stay flat, then rist again](diagrams/economies_of_scale.svg#mono-black)
 
+**EOS** - Economies of scale  
+**MES** - Minimum efficient scale  
+**DOS** - Diseconomies of scale
 
 # Internal Economies of Scale #
 Internal economies of scale are experienced when a **firm** becomes larger.

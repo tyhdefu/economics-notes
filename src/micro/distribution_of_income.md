@@ -1,7 +1,6 @@
 # Distribution of Income #
 
-**Wealth** - Property, Shares, Pensions
-
+**Wealth** - Property, Shares, Pensions  
 **Income** - Wages, Salaries, investment income, income from self-employment
 
 # Causes of wealth inequality #
@@ -18,8 +17,7 @@
 
 # Measuring Equality #
 
-**Equality** - Measurable - How evenly resources are distributed
-
+**Equality** - Measurable - How evenly resources are distributed  
 **Equity** - Not measurable - Fairness, do people have the same opportunities
 
 ## Lorenz Curve ##

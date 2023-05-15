@@ -1,3 +1,4 @@
+# Regulation #
 Laws that are implemented to encourage or discourage the production or consumption of a good or service.
 
 # Examples #
@@ -18,9 +19,10 @@ Laws that are implemented to encourage or discourage the production or consumpti
 - Health and safety laws
 
 # Positives #
-- Regulations are backed b y the law, there are consequences if they are broken
+- Regulations are backed by the law, there are consequences if they are broken
 - Widely used and proven to be effective, such as the smoking ban indoors.
 - If used correctly, they create a socially optimal outcome
+- Not regressive
 
 # Negatives #
 - Can lead to the creation of an illegal marketplace

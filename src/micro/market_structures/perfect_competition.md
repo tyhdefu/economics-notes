@@ -1,3 +1,4 @@
+# Perfect Competition #
 Perfect competition is an ideal, unrealistic marketplace, useful to compare real marketplaces to.
 
 ![Perfect competition](diagrams/perfect_competition.svg#mono-black)

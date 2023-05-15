@@ -13,3 +13,6 @@ The difference between what a supplier would be **willing to sell at**, and the 
 
 Here, the supplier would be willing to sell at 20p for a given output level, so they have a surplus of 80p when selling at the actual price of £1.
 The area shown is all producer surplus
+
+
+The consumer surplus + the producer surplus is known as **welfare**. If there is a loss in consumer surplus and producer surplus, this is a **welfare loss**.

@@ -1,7 +1,7 @@
 # Irrational behaviour #
 In economics we often assume that individuals are rational, but this is not always the case. Irrational agents make decisions that don't maximise utility.
 
-Irrationality can lead to market falure, loss of welfare or individual consequences like addiction.
+Irrationality can lead to market failure, loss of welfare or individual consequences like addiction.
 
 ## Types of irrational behaviour ##
 

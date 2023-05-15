@@ -1,4 +1,4 @@
-# Education Example #
+# Positive Consumption - Education Example #
 
 <img src="diagrams/positive_consumption_externality.svg#mono-black" alt="Positive Consumption Externality Diagram" style="width:70%;"/>
 

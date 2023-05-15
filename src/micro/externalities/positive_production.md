@@ -1,4 +1,4 @@
-# Training in transferable skills Example #
+# Positive Production - Training in transferable skills Example #
 
 <img src="diagrams/positive_production_externality.svg#mono-black" alt="Positive Production Externality Diagram" style="width:70%;"/>
 

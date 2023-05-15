@@ -1,3 +1,4 @@
+# Division of Labour #
 Division of labour occurs when the production process of a good is broken down into various small tasks.
 
 # Advantages #

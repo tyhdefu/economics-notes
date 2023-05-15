@@ -1,3 +1,6 @@
+# Contestable Markets #
+The Contestable Market model suggests that even if there are high costs to entering the market, this does not matter unless these cannot be recovered upon exiting the market.
+
 The contestable markets model proposes that:
 - The number of firms is not the most important factor, instead it is the absence of barriers to entry and **sunk costs**
 - Contestable markets are assumed to have free entry to new firms and free exit for incumbents and new entrants
@@ -36,3 +39,4 @@ Point of profit maximisation, without contestability
 - Fear of entry drives firms to increase output
 - This causes a reduction in prices and the firm becoming more efficient as well as more supply
 - This benefits consumers
+

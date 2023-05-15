@@ -25,8 +25,8 @@
 - [Economies of Scale](micro/economies_of_scale.md)
 
 - [Market Failure](micro/externalities/market_failure.md)
-  - [Negative Production Externality](micro/externalities/negative_consumption.md)
-  - [Negative Consumption Externality](micro/externalities/negative_production.md)
+  - [Negative Production Externality](micro/externalities/negative_production.md)
+  - [Negative Consumption Externality](micro/externalities/negative_consumption.md)
   - [Positive Production Externality](micro/externalities/positive_production.md)
   - [Positive Consumption Externality](micro/externalities/positive_consumption.md)
 

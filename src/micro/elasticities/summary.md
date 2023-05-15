@@ -1,3 +1,4 @@
+# Elasticities #
 Measures of elasticity measure how responsive one thing is to a change in another.
 For example, PED, which measures how Demand varies with price.
 

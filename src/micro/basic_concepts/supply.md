@@ -1,3 +1,5 @@
+# Supply #
+
 Supply is the quantity of a good or service that a producer is willing and able to supply onto the market at a given price in a given time period.  
 The basic law of supply is that as the price of a product increases, businesses expand supply to the market.
 

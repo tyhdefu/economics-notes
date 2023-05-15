@@ -1,6 +1,6 @@
 # Profit #
 
-**Accounting Profit** - Total Revenue - Total Costs
+**Accounting Profit** - Total Revenue - Total Costs  
 **Super-normal Profit (SNP)** - The amount of profit above normal profit
 
 ## Normal Profit ##

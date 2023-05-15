@@ -1,3 +1,5 @@
+# Demand #
+
 Demand for a good or service is the quantity that purchasers are willing and able to buy at a given price level in a given period of time.
 
 The basic law of demand is that demand varies inversely with price. Lower prices make products more affordable for consumers.

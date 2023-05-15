@@ -33,7 +33,7 @@ This third party is often the government.
 # Pollution Example #
 **MPC** - Marginal Private Cost  
 **MSB** - Marginal Social Benefit  
-**MSC** - Marginal Social Cost (MPC + Marginal External Cost)
+**MSC** - Marginal Social Cost (MPC + Marginal External Cost)  
 **Welfare Loss** - Loss to society, filled in on diagram
 
 Negative Production Externality

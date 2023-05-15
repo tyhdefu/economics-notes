@@ -1,3 +1,6 @@
+# Oligopoly #
+An oligopoly is a market structure where a few firms dominate, so they are highly interdenpedent.
+
 ![Oligopoly diagram](diagrams/oligopoly_diagram.svg#mono-black)
 
 # Characteristics #
@@ -51,6 +54,7 @@ Firms are incentivised to collude because it allows them to eliminate risk, and 
 - Legal
 - Firms follow a market leader / copy a large rival
 - No communication occurs between the firms
+
 Examples: Aldi price matching, Apple Airpods -> Galaxy pods.
 
 # Evaluation of the oligopoly model #

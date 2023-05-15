@@ -1,10 +1,11 @@
+# Costs for Firms #
 **FC** - Fixed Costs - Costs that do not change depending on output, e.g Rent  
 **VC** - Variable Costs - Costs that change depending on output, e.g Raw materials  
 **TC** - Total Costs = FC + VC  
 **AC** (ATC) - Average Cost \\(= \frac{TC}{Output}\\)  
 **MC** - Marginal Costs - Cost for an extra unit of output
 
-# Revenue #
+## Revenue ##
 **AR** - Average Revenue \\(= \frac{TR}{Output}\\)  
 **MR** - Marginal Revenue - Addition to revenue per extra unit produced  
 **TR** - Total Revenue \\(= Output \times Price = AR\\)
@@ -25,9 +26,10 @@ Productive Efficiency at Q
 
 Average Costs decrease as quantity increases, but then increase again due to the Law of Diminishing returns, as shown in the table
 
-# Law of Diminishing Returns #
+## Law of Diminishing Returns ##
 Additional variable factors of production such as Labour after an optimal point will lead to decreasing marginal returns.
 
 In the table, this begins at an output level of 3, and in the diagram, the optimal point is beyond Q (productive efficiency)
 
 This is because after an optimal point additional workers will get in eachother's way and become less productive.
+

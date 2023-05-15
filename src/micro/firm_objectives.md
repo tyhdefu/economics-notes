@@ -1,3 +1,4 @@
+# Firm's Objectives #
 Firms can have a range of different objectives. 
 In Economics, we assume this is Profit Maximisation but this may not always be the case.
 
@@ -58,3 +59,4 @@ They have allocative efficiency.
 ## Corporate Social Responsibility ##
 Acting ethical - e.g donating to charities, using green energy, 
 to generate good publicity for the company in an effort to increase loyalty of consumers.
+

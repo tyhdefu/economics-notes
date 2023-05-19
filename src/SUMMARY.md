@@ -76,6 +76,7 @@
 - [Economic Cycle](macro/economic_cycle.md)
 - [Unemployment](macro/unemployment.md)
 - [Inflation](macro/inflation.md)
+- [Balance Of Payments](macro/balance_of_payments.md)
 - [Economic Growth & Development](macro/economic_growth/README.md)
   - [Economic Growth](macro/economic_growth/growth.md)
   - [Economic Development](macro/economic_growth/development.md)
@@ -95,7 +96,6 @@
     - [Fixed](macro/policy/exchange_rate/fixed_exchange_rate.md)
     - [Managed](macro/policy/exchange_rate/managed_exchange_rate.md)
 
-- [Balance Of Payments](macro/balance_of_payments.md)
 - [Financial Markets]()
   - [Money](macro/financial_markets/money.md)
   - [Types of Markets](macro/financial_markets/types_of_markets.md)

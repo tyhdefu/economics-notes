@@ -9,3 +9,4 @@ title = "Economics AQA Notes"
 site-url = "economics-notes"
 fold.enable = true
 mathjax-support = true
+git-repository-url = "https://github.com/tyhdefu/economics-notes"

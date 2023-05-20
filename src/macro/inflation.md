@@ -6,7 +6,7 @@ Inflation means thee is a fall in the purchasing power of money. To beat inflati
 
 **Macro Objective** (UK) - 2% (±1%)
 
-*Disinflation* - Reduction in inflation
+*Disinflation* - Reduction in inflation  
 *Deflation* - Sustained decrease in the average price of goods in services over a given time period
 
 # Types #

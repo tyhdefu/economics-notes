@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="159.9104mm"
+   height="129.591mm"
+   viewBox="0 0 159.9104 129.591"
+   version="1.1"
+   id="svg5407"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   sodipodi:docname="lras.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview5409"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="1.0910356"
+     inkscape:cx="63.700946"
+     inkscape:cy="292.38276"
+     inkscape:window-width="2560"
+     inkscape:window-height="1011"
+     inkscape:window-x="1680"
+     inkscape:window-y="32"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs5404" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-31.707182,-56.63388)">
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 52.817587,65.17891 V 177.57562 H 166.23333"
+       id="path7000" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 90.488705,177.53254 V 75.60983"
+       id="path7004" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 129.13826,177.53271 V 75.61"
+       id="path7004-9" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:7.05556px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="82.130249"
+       y="72.744423"
+       id="text7062"><tspan
+         sodipodi:role="line"
+         id="tspan7060"
+         style="font-size:7.05556px;stroke-width:0.264583"
+         x="82.130249"
+         y="72.744423">LRAS</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:7.05556px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="119.94207"
+       y="72.529411"
+       id="text7066"><tspan
+         sodipodi:role="line"
+         id="tspan7064"
+         style="font-size:7.05556px;stroke-width:0.264583"
+         x="119.94207"
+         y="72.529411">LRAS<tspan
+   style="font-size:65%;baseline-shift:sub"
+   id="tspan7068">1</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:7.05556px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="46.921394"
+       y="183.41577"
+       id="text7072"><tspan
+         sodipodi:role="line"
+         id="tspan7070"
+         style="font-size:7.05556px;stroke-width:0.264583"
+         x="46.921394"
+         y="183.41577">0</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:7.05556px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="31.022793"
+       y="61.833828"
+       id="text7076"><tspan
+         sodipodi:role="line"
+         id="tspan7074"
+         style="font-size:7.05556px;stroke-width:0.264583"
+         x="31.022793"
+         y="61.833828">Price</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:7.05556px;stroke-width:0.264583"
+         x="31.022793"
+         y="70.653275"
+         id="tspan7078">Level</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:7.05556px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="161.44095"
+       y="185.95729"
+       id="text7082"><tspan
+         sodipodi:role="line"
+         id="tspan7080"
+         style="font-size:7.05556px;stroke-width:0.264583"
+         x="161.44095"
+         y="185.95729">Real GDP</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:7.05556px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="88.312088"
+       y="184.78969"
+       id="text7086"><tspan
+         sodipodi:role="line"
+         id="tspan7084"
+         style="font-size:7.05556px;stroke-width:0.264583"
+         x="88.312088"
+         y="184.78969">Y</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:7.05556px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="44.862961"
+       y="113.07951"
+       id="text7086-3"><tspan
+         sodipodi:role="line"
+         id="tspan7084-6"
+         style="font-size:7.05556px;stroke-width:0.264583"
+         x="44.862961"
+         y="113.07951">P</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:7.05556px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="127.05057"
+       y="184.81377"
+       id="text7086-1"><tspan
+         sodipodi:role="line"
+         id="tspan7084-2"
+         style="font-size:7.05556px;stroke-width:0.264583"
+         x="127.05057"
+         y="184.81377">Y<tspan
+   style="font-size:65%;baseline-shift:sub"
+   id="tspan7121">1</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:7.05556px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="44.00275"
+       y="136.25208"
+       id="text7086-1-7"><tspan
+         sodipodi:role="line"
+         id="tspan7084-2-0"
+         style="font-size:7.05556px;stroke-width:0.264583"
+         x="0"
+         y="0"><tspan
+           style="font-size:65%;baseline-shift:sub"
+           id="tspan7121-9" /></tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 55.426054,90.245381 162.83725,152.25927"
+       id="path7141" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:7.05556px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="165.35194"
+       y="156.27579"
+       id="text7145"><tspan
+         sodipodi:role="line"
+         id="tspan7143"
+         style="font-size:7.05556px;stroke-width:0.264583"
+         x="165.35194"
+         y="156.27579">AD</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.265;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:1.06, 1.06;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 129.15205,132.88939 H 52.80507"
+       id="path7230" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.265;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:1.06, 1.06;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 90.457003,110.46079 H 52.754836"
+       id="path7232" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:7.05556px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="45.236172"
+       y="135.88986"
+       id="text7308"><tspan
+         sodipodi:role="line"
+         id="tspan7306"
+         style="font-size:7.05556px;stroke-width:0.264583"
+         x="45.236172"
+         y="135.88986">P<tspan
+   style="font-size:65%;baseline-shift:sub"
+   id="tspan8762">1</tspan></tspan></text>
+  </g>
+</svg>

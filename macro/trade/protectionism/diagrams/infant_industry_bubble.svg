@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="113.38182mm"
+   height="66.953537mm"
+   viewBox="0 0 113.38182 66.953537"
+   version="1.1"
+   id="svg8"
+   inkscape:version="1.0.2 (e86c870879, 2021-01-15)"
+   sodipodi:docname="infant_industry_bubble.svg">
+  <defs
+     id="defs2">
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect847"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.98994949"
+     inkscape:cx="33.646577"
+     inkscape:cy="235.9317"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="2560"
+     inkscape:window-height="1016"
+     inkscape:window-x="1680"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-30.315931,-40.443471)">
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 45.741065,49.307816 c 4.452654,-2.720911 6.747892,-8.386755 10.824769,-8.53112 4.076877,-0.144366 9.934831,5.232416 14.048038,5.200157 4.113206,-0.03226 6.481782,-5.473316 11.910698,-5.400365 5.428916,0.07295 13.917426,5.659727 21.82266,6.577956 7.90524,0.918228 15.22695,-2.8318 19.29005,-1.255904 4.0631,1.575896 4.86748,8.477171 8.82324,13.398396 3.95576,4.921225 11.06232,7.8623 11.10475,12.060191 0.0424,4.19789 -6.97885,9.65247 -9.46553,15.984395 -2.48668,6.331924 -0.43877,13.540448 -4.01301,17.109198 -3.57424,3.56876 -12.7705,3.49791 -19.20799,1.16 -6.43749,-2.3379 -10.11585,-6.942952 -15.641107,-6.684364 -5.525256,0.258587 -12.896858,5.381034 -19.670268,5.699174 -6.773409,0.31814 -12.948479,-4.1682 -18.665918,-5.104159 -5.717439,-0.935963 -10.976721,1.678709 -13.423009,-0.101036 -2.446287,-1.779742 -2.079364,-7.953998 -4.646017,-11.662288 -2.566654,-3.70829 -8.066993,-4.950261 -8.37029,-8.051992 -0.303298,-3.101731 4.590674,-8.062933 5.057863,-13.060303 0.467189,-4.997371 -3.492576,-10.030901 -2.167212,-12.435908 1.325365,-2.405006 7.93563,-2.181117 12.388283,-4.902028 z"
+       id="path845"
+       inkscape:path-effect="#path-effect847"
+       inkscape:original-d="m 47.898536,52.252612 c 2.295501,-5.665578 4.590741,-11.331421 6.885713,-16.997529 5.858451,5.377259 11.716406,10.75404 17.574212,16.130664 2.368936,-5.441013 4.737512,-10.882071 7.105872,-16.323505 8.489111,5.587261 16.977622,11.174036 25.466037,16.760658 7.32226,-3.749913 14.64397,-7.49994 21.96556,-11.250306 0.80468,6.901815 1.60906,13.80309 2.41319,20.704238 7.10711,2.941461 14.21366,5.882537 21.3201,8.82341 -7.0213,5.455065 -14.04257,10.909649 -21.06425,16.364074 2.04826,7.209081 4.09618,14.417604 6.14387,21.626014 -9.19635,-0.0706 -18.39261,-0.14144 -27.58931,-0.21256 C 104.44128,103.2728 100.76292,98.667743 97.08422,94.062332 89.712587,99.185245 82.340986,104.30769 74.968972,109.42997 68.79392,104.94372 62.618852,100.45738 56.443395,95.970689 51.184166,98.585725 45.924882,101.20039 40.665228,103.81485 41.032429,97.64061 41.399354,91.466354 41.766019,85.291709 36.265723,84.049954 30.765384,82.807981 25.26467,81.56572 30.1591,76.604587 35.053071,71.643385 39.946876,66.68182 35.987217,61.648355 32.027452,56.614824 28.067346,51.58093 c 6.610792,0.224163 13.221057,0.448051 19.83119,0.671682 z" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.265;stroke-miterlimit:4;stroke-dasharray:none"
+       x="61.849472"
+       y="57.79821"
+       id="text851"><tspan
+         sodipodi:role="line"
+         id="tspan849"
+         x="61.849472"
+         y="57.79821"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.05556px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';stroke-width:0.265;stroke-miterlimit:4;stroke-dasharray:none">Car Industry</tspan><tspan
+         sodipodi:role="line"
+         x="61.849472"
+         y="71.027336"
+         style="stroke-width:0.265;stroke-miterlimit:4;stroke-dasharray:none"
+         id="tspan853" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:7.05556px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="49.023796"
+       y="80.578255"
+       id="text857"><tspan
+         sodipodi:role="line"
+         id="tspan855"
+         x="49.023796"
+         y="80.578255"
+         style="font-size:7.05556px;stroke-width:0.264583">Hyundai</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:7.05556px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="104.73611"
+       y="81.414902"
+       id="text861"><tspan
+         sodipodi:role="line"
+         id="tspan859"
+         x="104.73611"
+         y="81.414902"
+         style="font-size:7.05556px;stroke-width:0.264583">Kia</tspan></text>
+  </g>
+</svg>

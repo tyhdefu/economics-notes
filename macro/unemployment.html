@@ -1,0 +1,300 @@
+<!DOCTYPE HTML>
+<html lang="en" class="sidebar-visible no-js light">
+    <head>
+        <!-- Book generated using mdBook -->
+        <meta charset="UTF-8">
+        <title>Unemployment - Economics AQA Notes</title>
+        <!-- Custom HTML head -->
+        <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="theme-color" content="#ffffff" />
+
+        <link rel="icon" href="../favicon.svg">
+        <link rel="shortcut icon" href="../favicon.png">
+        <link rel="stylesheet" href="../css/variables.css">
+        <link rel="stylesheet" href="../css/general.css">
+        <link rel="stylesheet" href="../css/chrome.css">
+        <link rel="stylesheet" href="../css/print.css" media="print">
+        <!-- Fonts -->
+        <link rel="stylesheet" href="../FontAwesome/css/font-awesome.css">
+        <link rel="stylesheet" href="../fonts/fonts.css">
+        <!-- Highlight.js Stylesheets -->
+        <link rel="stylesheet" href="../highlight.css">
+        <link rel="stylesheet" href="../tomorrow-night.css">
+        <link rel="stylesheet" href="../ayu-highlight.css">
+
+        <!-- Custom theme stylesheets -->
+        <!-- MathJax -->
+        <script async type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+    </head>
+    <body>
+        <!-- Provide site root to javascript -->
+        <script type="text/javascript">
+            var path_to_root = "../";
+            var default_theme = window.matchMedia("(prefers-color-scheme: dark)").matches ? "navy" : "light";
+        </script>
+
+        <!-- Work around some values being stored in localStorage wrapped in quotes -->
+        <script type="text/javascript">
+            try {
+                var theme = localStorage.getItem('mdbook-theme');
+                var sidebar = localStorage.getItem('mdbook-sidebar');
+
+                if (theme.startsWith('"') && theme.endsWith('"')) {
+                    localStorage.setItem('mdbook-theme', theme.slice(1, theme.length - 1));
+                }
+
+                if (sidebar.startsWith('"') && sidebar.endsWith('"')) {
+                    localStorage.setItem('mdbook-sidebar', sidebar.slice(1, sidebar.length - 1));
+                }
+            } catch (e) { }
+        </script>
+
+        <!-- Set the theme before any content is loaded, prevents flash -->
+        <script type="text/javascript">
+            var theme;
+            try { theme = localStorage.getItem('mdbook-theme'); } catch(e) { }
+            if (theme === null || theme === undefined) { theme = default_theme; }
+            var html = document.querySelector('html');
+            html.classList.remove('no-js')
+            html.classList.remove('light')
+            html.classList.add(theme);
+            html.classList.add('js');
+        </script>
+
+        <!-- Hide / unhide sidebar before it is displayed -->
+        <script type="text/javascript">
+            var html = document.querySelector('html');
+            var sidebar = 'hidden';
+            if (document.body.clientWidth >= 1080) {
+                try { sidebar = localStorage.getItem('mdbook-sidebar'); } catch(e) { }
+                sidebar = sidebar || 'visible';
+            }
+            html.classList.remove('sidebar-visible');
+            html.classList.add("sidebar-" + sidebar);
+        </script>
+
+        <nav id="sidebar" class="sidebar" aria-label="Table of contents">
+            <div class="sidebar-scrollbox">
+                <ol class="chapter"><li class="chapter-item affix "><a href="../index.html">Introduction</a></li><li class="chapter-item affix "><li class="part-title">Micro-Economics</li><li class="chapter-item "><a href="../micro/spec.html"><strong aria-hidden="true">1.</strong> Specification</a></li><li class="chapter-item "><a href="../micro/ppf/ppf.html"><strong aria-hidden="true">2.</strong> PPF</a></li><li class="chapter-item "><div><strong aria-hidden="true">3.</strong> Basic Concepts</div><a class="toggle"><div>❱</div></a></li><li><ol class="section"><li class="chapter-item "><a href="../micro/basic_concepts/demand.html"><strong aria-hidden="true">3.1.</strong> Demand</a></li><li class="chapter-item "><a href="../micro/basic_concepts/supply.html"><strong aria-hidden="true">3.2.</strong> Supply</a></li><li class="chapter-item "><a href="../micro/basic_concepts/factors_of_production.html"><strong aria-hidden="true">3.3.</strong> 4 Factors of production</a></li><li class="chapter-item "><a href="../micro/basic_concepts/price_mechanism.html"><strong aria-hidden="true">3.4.</strong> Price Mechanism</a></li><li class="chapter-item "><a href="../micro/basic_concepts/sr_v_lr.html"><strong aria-hidden="true">3.5.</strong> Short Run vs Long Run</a></li></ol></li><li class="chapter-item "><a href="../micro/surplus.html"><strong aria-hidden="true">4.</strong> Surplus</a></li><li class="chapter-item "><a href="../micro/specialisation.html"><strong aria-hidden="true">5.</strong> Specialisation</a></li><li class="chapter-item "><a href="../micro/division_of_labour.html"><strong aria-hidden="true">6.</strong> Division of Labour</a></li><li class="chapter-item "><a href="../micro/elasticities/summary.html"><strong aria-hidden="true">7.</strong> Elasticities</a><a class="toggle"><div>❱</div></a></li><li><ol class="section"><li class="chapter-item "><a href="../micro/elasticities/ped.html"><strong aria-hidden="true">7.1.</strong> PED</a></li><li class="chapter-item "><a href="../micro/elasticities/yed.html"><strong aria-hidden="true">7.2.</strong> YED</a></li><li class="chapter-item "><a href="../micro/elasticities/xed.html"><strong aria-hidden="true">7.3.</strong> XED</a></li><li class="chapter-item "><a href="../micro/elasticities/pes.html"><strong aria-hidden="true">7.4.</strong> PES</a></li></ol></li><li class="chapter-item "><a href="../micro/public_goods.html"><strong aria-hidden="true">8.</strong> Public Goods</a></li><li class="chapter-item "><a href="../micro/economies_of_scale.html"><strong aria-hidden="true">9.</strong> Economies of Scale</a></li><li class="chapter-item "><a href="../micro/externalities/market_failure.html"><strong aria-hidden="true">10.</strong> Market Failure</a><a class="toggle"><div>❱</div></a></li><li><ol class="section"><li class="chapter-item "><a href="../micro/externalities/negative_production.html"><strong aria-hidden="true">10.1.</strong> Negative Production Externality</a></li><li class="chapter-item "><a href="../micro/externalities/negative_consumption.html"><strong aria-hidden="true">10.2.</strong> Negative Consumption Externality</a></li><li class="chapter-item "><a href="../micro/externalities/positive_production.html"><strong aria-hidden="true">10.3.</strong> Positive Production Externality</a></li><li class="chapter-item "><a href="../micro/externalities/positive_consumption.html"><strong aria-hidden="true">10.4.</strong> Positive Consumption Externality</a></li></ol></li><li class="chapter-item "><a href="../micro/government_intervention/index.html"><strong aria-hidden="true">11.</strong> Government Intervention</a><a class="toggle"><div>❱</div></a></li><li><ol class="section"><li class="chapter-item "><a href="../micro/government_intervention/indirect_tax.html"><strong aria-hidden="true">11.1.</strong> Indirect Tax</a></li><li class="chapter-item "><a href="../micro/government_intervention/minimum_price.html"><strong aria-hidden="true">11.2.</strong> Minimum Price</a></li><li class="chapter-item "><a href="../micro/government_intervention/maximum_price.html"><strong aria-hidden="true">11.3.</strong> Maximum Price</a></li><li class="chapter-item "><a href="../micro/government_intervention/subsidy.html"><strong aria-hidden="true">11.4.</strong> Subsidy</a></li><li class="chapter-item "><a href="../micro/government_intervention/regulation.html"><strong aria-hidden="true">11.5.</strong> Regulation</a></li></ol></li><li class="chapter-item "><a href="../micro/market_structures/intro.html"><strong aria-hidden="true">12.</strong> Market Structures</a><a class="toggle"><div>❱</div></a></li><li><ol class="section"><li class="chapter-item "><a href="../micro/market_structures/profit.html"><strong aria-hidden="true">12.1.</strong> Profit</a></li><li class="chapter-item "><a href="../micro/market_structures/perfect_competition.html"><strong aria-hidden="true">12.2.</strong> Perfect Competition</a></li><li class="chapter-item "><a href="../micro/market_structures/monopolistic.html"><strong aria-hidden="true">12.3.</strong> Monopolistic</a></li><li class="chapter-item "><a href="../micro/market_structures/oligopoly.html"><strong aria-hidden="true">12.4.</strong> Oligopoly</a></li><li class="chapter-item "><a href="../micro/market_structures/monopoly.html"><strong aria-hidden="true">12.5.</strong> Monopoly</a></li><li class="chapter-item "><a href="../micro/market_structures/contestable_markets.html"><strong aria-hidden="true">12.6.</strong> Contestable markets</a></li></ol></li><li class="chapter-item "><a href="../micro/costs_for_firms.html"><strong aria-hidden="true">13.</strong> Costs For firms</a></li><li class="chapter-item "><a href="../micro/labour_market/index.html"><strong aria-hidden="true">14.</strong> Labour Markets</a><a class="toggle"><div>❱</div></a></li><li><ol class="section"><li class="chapter-item "><a href="../micro/labour_market/demand.html"><strong aria-hidden="true">14.1.</strong> Demand for Labour</a></li><li class="chapter-item "><a href="../micro/labour_market/supply.html"><strong aria-hidden="true">14.2.</strong> Supply for Labour</a></li><li class="chapter-item "><a href="../micro/labour_market/labour_market_failure.html"><strong aria-hidden="true">14.3.</strong> Labour Market failure</a></li><li class="chapter-item "><a href="../micro/labour_market/monopsony.html"><strong aria-hidden="true">14.4.</strong> Monopsony</a></li><li class="chapter-item "><a href="../micro/labour_market/trade_unions.html"><strong aria-hidden="true">14.5.</strong> Trade Unions</a></li><li class="chapter-item "><a href="../micro/labour_market/national_minimum_wage.html"><strong aria-hidden="true">14.6.</strong> National Minimum Wage</a></li><li class="chapter-item "><a href="../micro/labour_market/discrimination.html"><strong aria-hidden="true">14.7.</strong> Discrimination</a></li></ol></li><li class="chapter-item "><a href="../micro/firm_objectives.html"><strong aria-hidden="true">15.</strong> Firm's Objectives</a></li><li class="chapter-item "><a href="../micro/distribution_of_income.html"><strong aria-hidden="true">16.</strong> Distribution of Income</a></li><li class="chapter-item "><a href="../micro/poverty.html"><strong aria-hidden="true">17.</strong> Poverty</a></li><li class="chapter-item "><a href="../micro/behavioural_economics/index.html"><strong aria-hidden="true">18.</strong> Behavioural Economics</a><a class="toggle"><div>❱</div></a></li><li><ol class="section"><li class="chapter-item "><a href="../micro/behavioural_economics/bounded_rationality.html"><strong aria-hidden="true">18.1.</strong> Bounded Rationality</a></li><li class="chapter-item "><a href="../micro/behavioural_economics/irrational_behaviour.html"><strong aria-hidden="true">18.2.</strong> Irrational Behaviour</a></li><li class="chapter-item "><a href="../micro/behavioural_economics/nudge.html"><strong aria-hidden="true">18.3.</strong> Nudges</a></li><li class="chapter-item "><a href="../micro/behavioural_economics/shove.html"><strong aria-hidden="true">18.4.</strong> Shoves</a></li></ol></li><li class="chapter-item "><a href="../micro/marginal_utility.html"><strong aria-hidden="true">19.</strong> Marginal Utility</a></li><li class="spacer"></li><li class="chapter-item affix "><li class="part-title">Macro-Economics</li><li class="chapter-item "><a href="../macro/spec.html"><strong aria-hidden="true">20.</strong> Specification</a></li><li class="chapter-item "><a href="../macro/macro-objectives.html"><strong aria-hidden="true">21.</strong> Macro Objectives</a></li><li class="chapter-item "><a href="../macro/circular_flow_of_income.html"><strong aria-hidden="true">22.</strong> Circular Flow of Income</a></li><li class="chapter-item "><a href="../macro/aggregate_demand.html"><strong aria-hidden="true">23.</strong> Aggregate Demand</a></li><li class="chapter-item "><a href="../macro/aggregate_supply.html"><strong aria-hidden="true">24.</strong> Aggregate Supply</a></li><li class="chapter-item "><a href="../macro/economic_cycle.html"><strong aria-hidden="true">25.</strong> Economic Cycle</a></li><li class="chapter-item expanded "><a href="../macro/unemployment.html" class="active"><strong aria-hidden="true">26.</strong> Unemployment</a></li><li class="chapter-item "><a href="../macro/inflation.html"><strong aria-hidden="true">27.</strong> Inflation</a></li><li class="chapter-item "><a href="../macro/balance_of_payments.html"><strong aria-hidden="true">28.</strong> Balance Of Payments</a></li><li class="chapter-item "><a href="../macro/economic_growth/index.html"><strong aria-hidden="true">29.</strong> Economic Growth &amp; Development</a><a class="toggle"><div>❱</div></a></li><li><ol class="section"><li class="chapter-item "><a href="../macro/economic_growth/growth.html"><strong aria-hidden="true">29.1.</strong> Economic Growth</a></li><li class="chapter-item "><a href="../macro/economic_growth/development.html"><strong aria-hidden="true">29.2.</strong> Economic Development</a></li><li class="chapter-item "><a href="../macro/economic_growth/structure.html"><strong aria-hidden="true">29.3.</strong> Economic Structure</a></li><li class="chapter-item "><a href="../macro/economic_growth/rostows_stages.html"><strong aria-hidden="true">29.4.</strong> Rostow's Stages</a></li><li class="chapter-item "><a href="../macro/economic_growth/ldc.html"><strong aria-hidden="true">29.5.</strong> Low Developed Countries</a></li></ol></li><li class="chapter-item "><a href="../macro/keynesian_lras.html"><strong aria-hidden="true">30.</strong> Keynesian LRAS</a></li><li class="chapter-item "><a href="../macro/philips_curve.html"><strong aria-hidden="true">31.</strong> Philips Curve</a></li><li class="chapter-item "><a href="../macro/government_bonds.html"><strong aria-hidden="true">32.</strong> Government Bonds</a></li><li class="chapter-item "><div><strong aria-hidden="true">33.</strong> Policies</div><a class="toggle"><div>❱</div></a></li><li><ol class="section"><li class="chapter-item "><a href="../macro/policy/monetary-policy.html"><strong aria-hidden="true">33.1.</strong> Monetary Policy</a></li><li class="chapter-item "><a href="../macro/policy/fiscal-policy.html"><strong aria-hidden="true">33.2.</strong> Fiscal Policy</a></li><li class="chapter-item "><a href="../macro/policy/supply-side.html"><strong aria-hidden="true">33.3.</strong> Supply Side Policy</a></li><li class="chapter-item "><a href="../macro/policy/exchange_rate/index.html"><strong aria-hidden="true">33.4.</strong> Exchange Rates</a><a class="toggle"><div>❱</div></a></li><li><ol class="section"><li class="chapter-item "><a href="../macro/policy/exchange_rate/floating_exchange_rate.html"><strong aria-hidden="true">33.4.1.</strong> Floating</a></li><li class="chapter-item "><a href="../macro/policy/exchange_rate/fixed_exchange_rate.html"><strong aria-hidden="true">33.4.2.</strong> Fixed</a></li><li class="chapter-item "><a href="../macro/policy/exchange_rate/managed_exchange_rate.html"><strong aria-hidden="true">33.4.3.</strong> Managed</a></li></ol></li></ol></li><li class="chapter-item "><div><strong aria-hidden="true">34.</strong> Financial Markets</div><a class="toggle"><div>❱</div></a></li><li><ol class="section"><li class="chapter-item "><a href="../macro/financial_markets/money.html"><strong aria-hidden="true">34.1.</strong> Money</a></li><li class="chapter-item "><a href="../macro/financial_markets/types_of_markets.html"><strong aria-hidden="true">34.2.</strong> Types of Markets</a></li><li class="chapter-item "><a href="../macro/financial_markets/business_finance.html"><strong aria-hidden="true">34.3.</strong> Business Finance</a></li><li class="chapter-item "><a href="../macro/financial_markets/banks.html"><strong aria-hidden="true">34.4.</strong> Banks</a></li><li class="chapter-item "><a href="../macro/financial_markets/liquidity_and_capital.html"><strong aria-hidden="true">34.5.</strong> Liquidity and Capital</a></li><li class="chapter-item "><a href="../macro/financial_markets/credit_creation.html"><strong aria-hidden="true">34.6.</strong> Credit Creation</a></li><li class="chapter-item "><a href="../macro/financial_markets/2008.html"><strong aria-hidden="true">34.7.</strong> 2008 Financial Crisis</a></li><li class="chapter-item "><a href="../macro/financial_markets/failure.html"><strong aria-hidden="true">34.8.</strong> Financial Market Failure</a></li><li class="chapter-item "><a href="../macro/financial_markets/regulation.html"><strong aria-hidden="true">34.9.</strong> Post-2008 Regulation</a></li><li class="chapter-item "><a href="../macro/financial_markets/central_bank_functions.html"><strong aria-hidden="true">34.10.</strong> Functions of the Central Bank</a></li></ol></li><li class="chapter-item "><a href="../macro/trade/index.html"><strong aria-hidden="true">35.</strong> Trade</a><a class="toggle"><div>❱</div></a></li><li><ol class="section"><li class="chapter-item "><a href="../macro/trade/protectionism/index.html"><strong aria-hidden="true">35.1.</strong> Protectionism</a><a class="toggle"><div>❱</div></a></li><li><ol class="section"><li class="chapter-item "><a href="../macro/trade/protectionism/infant_industry_argument.html"><strong aria-hidden="true">35.1.1.</strong> Infant Industry Argument</a></li><li class="chapter-item "><a href="../macro/trade/protectionism/sunset_industry_argument.html"><strong aria-hidden="true">35.1.2.</strong> Sunset Industry Argument</a></li><li class="chapter-item "><a href="../macro/trade/protectionism/tariffs.html"><strong aria-hidden="true">35.1.3.</strong> Tariffs</a></li></ol></li><li class="chapter-item "><a href="../macro/trade/free_trade.html"><strong aria-hidden="true">35.2.</strong> Free Trade</a></li><li class="chapter-item "><a href="../macro/trade/changing_patterns.html"><strong aria-hidden="true">35.3.</strong> Changing Patterns</a></li><li class="chapter-item "><a href="../macro/trade/economic_integration.html"><strong aria-hidden="true">35.4.</strong> Economic Integration</a></li><li class="chapter-item "><a href="../macro/trade/customs_union.html"><strong aria-hidden="true">35.5.</strong> Customs Unions</a></li><li class="chapter-item "><a href="../macro/trade/world_trade_organisation.html"><strong aria-hidden="true">35.6.</strong> World Trade Organisation</a></li></ol></li><li class="chapter-item "><a href="../macro/economic_growth/hdi.html"><strong aria-hidden="true">36.</strong> Human Development Index</a></li><li class="chapter-item "><a href="../macro/globalisation.html"><strong aria-hidden="true">37.</strong> Globalisation</a></li><li class="spacer"></li><li class="chapter-item affix "><li class="part-title">Exam Help</li><li class="chapter-item "><a href="../exams/format.html"><strong aria-hidden="true">38.</strong> Answer Format</a></li><li class="chapter-item "><a href="../exams/effectiveness_of_fiscal_policy.html"><strong aria-hidden="true">39.</strong> Fiscal Policy Essay Plan</a></li><li class="chapter-item "><a href="../exams/financial_market_regulation.html"><strong aria-hidden="true">40.</strong> Financial Market Regulation Essay Plan</a></li><li class="chapter-item "><div><strong aria-hidden="true">41.</strong> Micro - Paper 1</div></li><li class="chapter-item "><div><strong aria-hidden="true">42.</strong> Macro - Paper 2</div><a class="toggle"><div>❱</div></a></li><li><ol class="section"><li class="chapter-item "><a href="../exams/macro/june_2020.html"><strong aria-hidden="true">42.1.</strong> June 2020</a></li></ol></li></ol>
+            </div>
+            <div id="sidebar-resize-handle" class="sidebar-resize-handle"></div>
+        </nav>
+
+        <div id="page-wrapper" class="page-wrapper">
+
+            <div class="page">
+                <div id="menu-bar-hover-placeholder"></div>
+                <div id="menu-bar" class="menu-bar sticky bordered">
+                    <div class="left-buttons">
+                        <button id="sidebar-toggle" class="icon-button" type="button" title="Toggle Table of Contents" aria-label="Toggle Table of Contents" aria-controls="sidebar">
+                            <i class="fa fa-bars"></i>
+                        </button>
+                        <button id="theme-toggle" class="icon-button" type="button" title="Change theme" aria-label="Change theme" aria-haspopup="true" aria-expanded="false" aria-controls="theme-list">
+                            <i class="fa fa-paint-brush"></i>
+                        </button>
+                        <ul id="theme-list" class="theme-popup" aria-label="Themes" role="menu">
+                            <li role="none"><button role="menuitem" class="theme" id="light">Light (default)</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="rust">Rust</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="coal">Coal</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="navy">Navy</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="ayu">Ayu</button></li>
+                        </ul>
+                        <button id="search-toggle" class="icon-button" type="button" title="Search. (Shortkey: s)" aria-label="Toggle Searchbar" aria-expanded="false" aria-keyshortcuts="S" aria-controls="searchbar">
+                            <i class="fa fa-search"></i>
+                        </button>
+                    </div>
+
+                    <h1 class="menu-title">Economics AQA Notes</h1>
+
+                    <div class="right-buttons">
+                        <a href="../print.html" title="Print this book" aria-label="Print this book">
+                            <i id="print-button" class="fa fa-print"></i>
+                        </a>
+                        <a href="https://github.com/tyhdefu/economics-notes" title="Git repository" aria-label="Git repository">
+                            <i id="git-repository-button" class="fa fa-github"></i>
+                        </a>
+                    </div>
+                </div>
+
+                <div id="search-wrapper" class="hidden">
+                    <form id="searchbar-outer" class="searchbar-outer">
+                        <input type="search" id="searchbar" name="searchbar" placeholder="Search this book ..." aria-controls="searchresults-outer" aria-describedby="searchresults-header">
+                    </form>
+                    <div id="searchresults-outer" class="searchresults-outer hidden">
+                        <div id="searchresults-header" class="searchresults-header"></div>
+                        <ul id="searchresults">
+                        </ul>
+                    </div>
+                </div>
+                <!-- Apply ARIA attributes after the sidebar and the sidebar toggle button are added to the DOM -->
+                <script type="text/javascript">
+                    document.getElementById('sidebar-toggle').setAttribute('aria-expanded', sidebar === 'visible');
+                    document.getElementById('sidebar').setAttribute('aria-hidden', sidebar !== 'visible');
+                    Array.from(document.querySelectorAll('#sidebar a')).forEach(function(link) {
+                        link.setAttribute('tabIndex', sidebar === 'visible' ? 0 : -1);
+                    });
+                </script>
+
+                <div id="content" class="content">
+                    <main>
+                        <h1 id="unemployment"><a class="header" href="#unemployment">Unemployment</a></h1>
+<p>Those individuals who are 16 to 66 who are <em>willing and able</em> to work, though are not currently in employment.</p>
+<p><strong>Macro Objective</strong> - Achieve &quot;Full employment&quot;<br />
+<strong>Full employment</strong> - Unemployment at 3% or less</p>
+<p>\(\text{Unemployment Rate}  =\frac{\text{People Working}}{\text{People able to work}}\)</p>
+<p>Example:<br />
+1.64 million unemployed
+32.5 million in work</p>
+<p>UK = \(\frac{\text{1.64 million}}{\text{32.5 million}}\) = 4.8%</p>
+<h1 id="economically-inactive"><a class="header" href="#economically-inactive">Economically Inactive</a></h1>
+<ul>
+<li>Students</li>
+<li>Disabled</li>
+<li>Pensioners</li>
+<li>Not actively seeking a job</li>
+<li>Under 16</li>
+<li>Retired</li>
+<li>Asylum seekers</li>
+<li>Discouraged Workers</li>
+</ul>
+<h1 id="measuring-unemployment"><a class="header" href="#measuring-unemployment">Measuring unemployment</a></h1>
+<h2 id="claimant-count"><a class="header" href="#claimant-count">Claimant count</a></h2>
+<p>The number of people claiming job-seekers allowance each month.
+Used to be used but no longer used by the ONS.</p>
+<p>It is straight forward to compile<br />
+However, it may be inaccurate because</p>
+<ul>
+<li>People have too much pride to claim / enough wealth already</li>
+<li>It doesn't recognise people who have been raising children and are looking to return to the workforce as unemployed</li>
+<li>Excludes people who aren't eligible to claim JSA (e.g people with no permanent address)</li>
+<li>Doesn't include people who are unemployed but choose not to claim.</li>
+</ul>
+<h2 id="ilo---labour-force-survey"><a class="header" href="#ilo---labour-force-survey">ILO - Labour Force Survey</a></h2>
+<p>Measures the percentage of the workforce who are without a job but are available for work, and actively seeking employment.</p>
+<p>This measure involves a labour force survey.</p>
+<ul>
+<li>Considered to be more accurate than the claimant count method</li>
+<li>It is the international standard and therefore makes comparisons between economies more accurate</li>
+</ul>
+<p>Drawbacks:</p>
+<ul>
+<li>The data relies on a sample of the population. It will not be fully representative</li>
+<li>Doesn't represent underemployment, those who have jobs, but are qualified to do more skilled work. They are settling for what they can get.</li>
+<li>Doesn't include the hidden unemployed. These people who have been out of work for a long time, who are seeking work. They are classified as discouraged workers.</li>
+</ul>
+<h1 id="types-of-unemployment"><a class="header" href="#types-of-unemployment">Types of unemployment</a></h1>
+<h2 id="frictional-unemployment"><a class="header" href="#frictional-unemployment">Frictional Unemployment</a></h2>
+<p>Individuals that are between jobs, for example transferring from one sector to another. This tends to be a short term situation.</p>
+<h2 id="structural-unemployment"><a class="header" href="#structural-unemployment">Structural Unemployment</a></h2>
+<p>Individuals who have left one sector due to it contracting, but do not have the skills to move into another that is expanding. This is due to occupational immobility.</p>
+<h2 id="cyclical-unemployment"><a class="header" href="#cyclical-unemployment">Cyclical Unemployment</a></h2>
+<p>Unemployment that arises due to an economic downturn or onset of a recession.</p>
+<h2 id="demand-deficient-unemployment"><a class="header" href="#demand-deficient-unemployment">Demand-deficient Unemployment</a></h2>
+<p>Arises due to AD being low within an economy. Easily rectified by boosting AD.</p>
+<h2 id="seasonal-unemployment"><a class="header" href="#seasonal-unemployment">Seasonal Unemployment</a></h2>
+<p>Some jobs are linked into certain times of the year, such as the tourist industry during the summer will need less workers in the winter.</p>
+<h1 id="consequences-of-unemployment"><a class="header" href="#consequences-of-unemployment">Consequences of Unemployment</a></h1>
+<h2 id="for-individuals"><a class="header" href="#for-individuals">For individuals</a></h2>
+<ul>
+<li>Fall in earnings, even if claiming benefits</li>
+<li>Fall in their standard of living (relative poverty)</li>
+<li>Loss of status</li>
+<li>Stress that can lead to health issues</li>
+<li>The longer they are unemployed, the less employable they become</li>
+</ul>
+<h2 id="for-the-economy"><a class="header" href="#for-the-economy">For the economy</a></h2>
+<ul>
+<li>Unemployment represents an opportunity cost to an economy. Lost output cannot be regained. The economy is operating inefficiently.</li>
+<li>The government will have to increase their spending in order to pay for JSA. They will also receive less money (from taxes). This can lead to a deficit.</li>
+</ul>
+<h2 id="positives-of-high-unemployment"><a class="header" href="#positives-of-high-unemployment">Positives of high unemployment</a></h2>
+<ul>
+<li>Firms may be able to lower their wages and find it easier to recruit staff</li>
+<li>Downward pressure on inflation</li>
+</ul>
+<h2 id="depends-on"><a class="header" href="#depends-on">Depends on</a></h2>
+<ul>
+<li>The rate of unemployment (If unemployment is high, it is harder to get a job)</li>
+<li>How long individuals have been unemployed for</li>
+<li>The type of unemployment</li>
+</ul>
+<h1 id="voluntary-unemployment"><a class="header" href="#voluntary-unemployment">Voluntary Unemployment</a></h1>
+<p><strong>Involuntary Unemployment</strong> - Individuals made unemployed due to a recession / demand deficient unemployment<br />
+<strong>Voluntary Unemployment</strong> - Individuals who are unwilling to accept the going wage rate or the type of job available.</p>
+<p><strong>Real wage Unemployment</strong> - The wage rate is above the equilibrium leading to firms reducing the amount of workers they employ.</p>
+<h2 id="causes"><a class="header" href="#causes">Causes</a></h2>
+<ul>
+<li>Generous unemployment benefits, making accepting a job less attractive</li>
+<li>High marginal tax rates, which reduce effective pay</li>
+<li>Unemployed hoping to find a job more suited to their skills / qualifications</li>
+<li>Some jobs too tedious, e.g. Fruit picking / Security guard</li>
+</ul>
+<h2 id="solutions"><a class="header" href="#solutions">Solutions</a></h2>
+<ul>
+<li>Reduce unemployment benefits</li>
+<li>Reduce income tax</li>
+<li>Better information / easier to find a matching job</li>
+<li>Retrain to the job they want to do, e.g. Nurse, Teacher (fill skills gaps)</li>
+</ul>
+<h1 id="nairu"><a class="header" href="#nairu">NAIRU</a></h1>
+<p><strong>NAIRU</strong> - Non-accelerating rate of inflation</p>
+<p><img src="diagrams/nairu.svg#mono-black" alt="NAIRU on Keynesian LRAS" /></p>
+<p>NAIRU the level of unemployment above which there will be inflation (labour market tightening).
+This is shown on the diagram - Moving AD past NAIRU will cause the price level to increase - i.e. inflation.</p>
+<h2 id="decreasing-nairu"><a class="header" href="#decreasing-nairu">Decreasing NAIRU</a></h2>
+<ul>
+<li>Training and Education
+<ul>
+<li>To fill skills gaps</li>
+</ul>
+</li>
+<li>Net migration for skilled workers</li>
+<li>Reduce trade union power
+<ul>
+<li>To stop wages increasing</li>
+</ul>
+</li>
+<li>Reduce benefits and income tax</li>
+</ul>
+
+                    </main>
+
+                    <nav class="nav-wrapper" aria-label="Page navigation">
+                        <!-- Mobile navigation buttons -->
+                            <a rel="prev" href="../macro/economic_cycle.html" class="mobile-nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                                <i class="fa fa-angle-left"></i>
+                            </a>
+                            <a rel="next" href="../macro/inflation.html" class="mobile-nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                                <i class="fa fa-angle-right"></i>
+                            </a>
+                        <div style="clear: both"></div>
+                    </nav>
+                </div>
+            </div>
+
+            <nav class="nav-wide-wrapper" aria-label="Page navigation">
+                    <a rel="prev" href="../macro/economic_cycle.html" class="nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                        <i class="fa fa-angle-left"></i>
+                    </a>
+                    <a rel="next" href="../macro/inflation.html" class="nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                        <i class="fa fa-angle-right"></i>
+                    </a>
+            </nav>
+
+        </div>
+
+        <script type="text/javascript">
+            window.playground_copyable = true;
+        </script>
+        <script src="../elasticlunr.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../mark.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../searcher.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../clipboard.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../highlight.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../book.js" type="text/javascript" charset="utf-8"></script>
+
+        <!-- Custom JS scripts -->
+    </body>
+</html>

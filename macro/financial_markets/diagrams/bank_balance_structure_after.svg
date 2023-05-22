@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="133.58899mm"
+   height="128.44391mm"
+   viewBox="0 0 133.58899 128.44391"
+   version="1.1"
+   id="svg2379"
+   sodipodi:docname="bank_balance_structure_after.svg"
+   inkscape:version="1.0.2 (e86c870879, 2021-01-15)">
+  <defs
+     id="defs2373" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.49497475"
+     inkscape:cx="-718.8852"
+     inkscape:cy="284.37534"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     inkscape:window-width="2560"
+     inkscape:window-height="1016"
+     inkscape:window-x="1680"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <metadata
+     id="metadata2376">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-32.915091,-32)">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="37.568768"
+       y="39.715267"
+       id="text2383"><tspan
+         sodipodi:role="line"
+         id="tspan2381"
+         x="37.568768"
+         y="39.715267"
+         style="stroke-width:0.264583">Assets</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="117.04472"
+       y="40.040829"
+       id="text2387"><tspan
+         sodipodi:role="line"
+         id="tspan2385"
+         x="117.04472"
+         y="40.040829"
+         style="stroke-width:0.264583">Liabilities</tspan></text>
+    <rect
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.313991;stroke-opacity:1"
+       id="rect2389"
+       width="45.584564"
+       height="117.12991"
+       x="33.072086"
+       y="43.156994" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 33.033985,99.573761 H 78.445856"
+       id="path2976" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:8.46667px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="36.615341"
+       y="131.12872"
+       id="text2980"><tspan
+         sodipodi:role="line"
+         id="tspan2978"
+         x="36.615341"
+         y="131.12872"
+         style="font-size:8.46667px;stroke-width:0.264583">Reserves</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:8.46667px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="37.210011"
+       y="91.380859"
+       id="text2980-2"><tspan
+         sodipodi:role="line"
+         id="tspan2978-2"
+         x="37.210011"
+         y="91.380859"
+         style="font-size:8.46667px;stroke-width:0.264583">Currency</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:8.46667px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="122.96722"
+       y="117.76349"
+       id="text3008"><tspan
+         sodipodi:role="line"
+         id="tspan3006"
+         x="122.96722"
+         y="117.76349"
+         style="font-size:8.46667px;stroke-width:0.264583">Deposits</tspan></text>
+    <rect
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.313991;stroke-opacity:1"
+       id="rect2389-8"
+       width="45.584564"
+       height="117.12991"
+       x="118.54821"
+       y="43.156994" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 33.068746,75.132291 h 45.446"
+       id="path3048" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 118.62123,75.132291 h 45.446"
+       id="path3048-9" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:8.46667px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="141.53171"
+       y="56.203728"
+       id="text3072"><tspan
+         sodipodi:role="line"
+         id="tspan3070"
+         x="141.53171"
+         y="56.203728"
+         style="text-align:center;text-anchor:middle">New </tspan><tspan
+         sodipodi:role="line"
+         x="141.53171"
+         y="66.787064"
+         id="tspan3074"
+         style="text-align:center;text-anchor:middle">Deposits</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:8.46667px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="55.454315"
+       y="57.684048"
+       id="text3072-7"><tspan
+         sodipodi:role="line"
+         id="tspan3070-3"
+         x="55.454315"
+         y="57.684048"
+         style="text-align:center;text-anchor:middle">New </tspan><tspan
+         sodipodi:role="line"
+         x="55.454315"
+         y="68.267387"
+         id="tspan3074-6"
+         style="text-align:center;text-anchor:middle">Loans</tspan></text>
+  </g>
+</svg>

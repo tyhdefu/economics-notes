@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="118.24748mm"
+   height="78.415573mm"
+   viewBox="0 0 118.24748 78.415573"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   sodipodi:docname="labour_supply.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="1.5625561"
+     inkscape:cx="45.11838"
+     inkscape:cy="171.51384"
+     inkscape:window-width="2560"
+     inkscape:window-height="1057"
+     inkscape:window-x="1672"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2">
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect810"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect802"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-29.598405,-71.058068)">
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 41.993158,74.503991 V 143.58951 H 112.77195"
+       id="path792" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 56.034786,82.136458 c 10.935881,4.071021 21.871443,8.141924 27.698291,12.931366 5.826847,4.789442 6.545227,10.297026 5.028531,16.882296 -1.516696,6.58526 -5.268236,14.24798 -8.740446,19.07714 -3.472211,4.82915 -6.66501,6.82465 -9.857949,8.82024"
+       id="path800"
+       inkscape:path-effect="#path-effect802"
+       inkscape:original-d="m 56.034786,82.136458 c 10.935827,4.071167 21.871389,8.14207 32.80669,12.212709 0.718674,5.508069 1.437052,11.015653 2.155184,16.523073 -3.751429,7.6633 -7.502969,15.32602 -11.254851,22.98863 -3.192663,1.99585 -6.385464,3.99135 -9.578596,5.98663" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:1.05833, 2.11666;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 41.966223,107.51974 c 23.34809,0 46.695918,0 70.043477,0"
+       id="path808"
+       inkscape:path-effect="#path-effect810"
+       inkscape:original-d="m 41.966223,107.51974 c 23.34809,2.6e-4 46.695918,2.6e-4 70.043477,0" />
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
+       x="111.502"
+       y="147.99202"
+       id="text866"><tspan
+         sodipodi:role="line"
+         id="tspan864"
+         style="stroke-width:0.264583"
+         x="111.502"
+         y="147.99202">Hours</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
+       x="38.860603"
+       y="149.4313"
+       id="text920"><tspan
+         sodipodi:role="line"
+         id="tspan918"
+         style="stroke-width:0.264583"
+         x="38.860603"
+         y="149.4313">0</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
+       x="29.547606"
+       y="74.080666"
+       id="text924"><tspan
+         sodipodi:role="line"
+         id="tspan922"
+         style="stroke-width:0.264583"
+         x="29.547606"
+         y="74.080666">Wage</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
+       x="32.595497"
+       y="109.21608"
+       id="text928"><tspan
+         sodipodi:role="line"
+         id="tspan926"
+         style="stroke-width:0.264583"
+         x="32.595497"
+         y="109.21608">£30</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
+       x="77.382553"
+       y="83.816994"
+       id="text1040"><tspan
+         sodipodi:role="line"
+         id="tspan1038"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';stroke-width:0.264583"
+         x="77.382553"
+         y="83.816994">Income effect</tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.264583"
+         x="77.382553"
+         y="89.108658"
+         id="tspan1042">(Buying back leisure time)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;line-height:1.25;font-family:sans-serif;stroke-width:0.265;stroke-dasharray:none"
+       x="89.066132"
+       y="120.89966"
+       id="text1046"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';stroke-width:0.265;stroke-dasharray:none"
+         x="89.066132"
+         y="120.89966"
+         id="tspan1048">Substitution effect</tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.265;stroke-dasharray:none"
+         x="89.066132"
+         y="126.19132"
+         id="tspan1052">(Substituting leisure for work)</tspan></text>
+  </g>
+</svg>

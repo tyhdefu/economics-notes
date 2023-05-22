@@ -127,3 +127,6 @@
 - [Answer Format](exams/format.md)
 - [Fiscal Policy Essay Plan](exams/effectiveness_of_fiscal_policy.md)
 - [Financial Market Regulation Essay Plan](exams/financial_market_regulation.md)
+- [Micro - Paper 1]()
+- [Macro - Paper 2]()
+  - [June 2020](exams/macro/june_2020.md)
